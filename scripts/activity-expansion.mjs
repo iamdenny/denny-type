@@ -1,4 +1,3 @@
-// Original scenario-based activities. Language order: English, Korean, Japanese, Spanish.
 export const activityExpansion = [
   {
     "slug": "library-desk-passage",
@@ -2797,6 +2796,2806 @@ export const activityExpansion = [
       "연습 일정: 09:15 - 안건; 09:30 - 접속주소; 10:00 - 마이크. 확인: 3/8. 남은 항목: 5. 버전: 2. 회의 전에 안건을 보내고 마이크를 확인합니다. 한 번에 안건 하나를 논의하고 각 작업의 담당자를 정합니다. 결정 사항과 다음 확인 날짜를 짧게 요약하며 마칩니다. 시간은 타이핑용 가상 예시입니다.",
       "練習予定：09:15 - 議題、09:30 - リンク、10:00 - マイク。確認済み：3/8。残り：5。版：2。会議前に議題を送り、マイクを確認します。議題を1つずつ話し合い、作業ごとに担当者を決めます。最後に決定事項と次の確認日を短くまとめましょう。時刻は入力練習用の架空の例です。",
       "Horario de práctica: 09:15 - agenda; 09:30 - enlace; 10:00 - micrófono. Revisados: 3/8. Pendientes: 5. Versión: 2. Envía la agenda y comprueba el micrófono antes de reunirse. Trata un punto cada vez y asigna responsable a cada acción. Termina con un resumen de decisiones y la próxima fecha de revisión. Los horarios son ejemplos ficticios para practicar."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "library-desk-dialogue",
+    "title": [
+      "Library desk · Dialogue",
+      "도서관 안내 · 대화문",
+      "図書館カウンター · 会話文",
+      "Mostrador de biblioteca · Diálogo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. A: Where should we record catalog? B: Put it beside loan. A: Should we include return too? B: Yes, but check reservation first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 가: 목록 항목은 어디에 기록할까요? 나: 대출 옆에 적어 주세요. 가: 반납 항목도 넣을까요? 나: 네, 먼저 예약 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 A：目録はどこに記録しますか？ B：貸出の隣に書きます。 A：返却も入れますか？ B：はい、先に予約を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. A: ¿Dónde anotamos catálogo? B: Junto a préstamo. A: ¿Incluimos también devolución? B: Sí, pero revisa primero reserva. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "text": [
+      "A: Where should we record catalog? B: Put it beside loan. A: Should we include return too? B: Yes, but check reservation first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "가: 목록 항목은 어디에 기록할까요? 나: 대출 옆에 적어 주세요. 가: 반납 항목도 넣을까요? 나: 네, 먼저 예약 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "A：目録はどこに記録しますか？ B：貸出の隣に書きます。 A：返却も入れますか？ B：はい、先に予約を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "A: ¿Dónde anotamos catálogo? B: Junto a préstamo. A: ¿Incluimos también devolución? B: Sí, pero revisa primero reserva. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "library-desk-activity-log",
+    "title": [
+      "Library desk · Activity log",
+      "도서관 안내 · 활동 기록",
+      "図書館カウンター · 活動記録",
+      "Mostrador de biblioteca · Registro"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. 09:00 - Review: catalog. 09:15 - Prepare: loan. 09:30 - Check: return. 09:45 - Record: reservation. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 09:00 - 검토: 목록. 09:15 - 준비: 대출. 09:30 - 확인: 반납. 09:45 - 기록: 예약. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 09:00 - 検討：目録。09:15 - 準備：貸出。09:30 - 確認：返却。09:45 - 記録：予約。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. 09:00 - Revisar: catálogo. 09:15 - Preparar: préstamo. 09:30 - Comprobar: devolución. 09:45 - Anotar: reserva. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "text": [
+      "09:00 - Review: catalog. 09:15 - Prepare: loan. 09:30 - Check: return. 09:45 - Record: reservation. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "09:00 - 검토: 목록. 09:15 - 준비: 대출. 09:30 - 확인: 반납. 09:45 - 기록: 예약. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "09:00 - 検討：目録。09:15 - 準備：貸出。09:30 - 確認：返却。09:45 - 記録：予約。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "09:00 - Revisar: catálogo. 09:15 - Preparar: préstamo. 09:30 - Comprobar: devolución. 09:45 - Anotar: reserva. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "library-desk-inventory",
+    "title": [
+      "Library desk · Inventory",
+      "도서관 안내 · 물품 기록",
+      "図書館カウンター · 品目記録",
+      "Mostrador de biblioteca · Inventario"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Record 01: catalog (checked). Record 02: loan (pending). Record 03: return (checked). Record 04: reservation (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 기록 01: 목록 (확인). 기록 02: 대출 (대기). 기록 03: 반납 (확인). 기록 04: 예약 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 記録01：目録（確認済み）。記録02：貸出（保留）。記録03：返却（確認済み）。記録04：予約（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Registro 01: catálogo (revisado). Registro 02: préstamo (pendiente). Registro 03: devolución (revisado). Registro 04: reserva (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "text": [
+      "Record 01: catalog (checked). Record 02: loan (pending). Record 03: return (checked). Record 04: reservation (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "기록 01: 목록 (확인). 기록 02: 대출 (대기). 기록 03: 반납 (확인). 기록 04: 예약 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "記録01：目録（確認済み）。記録02：貸出（保留）。記録03：返却（確認済み）。記録04：予約（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Registro 01: catálogo (revisado). Registro 02: préstamo (pendiente). Registro 03: devolución (revisado). Registro 04: reserva (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "library-desk-quoted-speech",
+    "title": [
+      "Library desk · Quoted speech",
+      "도서관 안내 · 인용문",
+      "図書館カウンター · 引用文",
+      "Mostrador de biblioteca · Citas"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. \"Start with catalog,\" the organizer said. \"Then review loan and return.\" A partner asked, \"What about reservation?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 진행자가 말했습니다. \"목록 항목부터 시작하세요. 그다음 대출, 반납 항목을 살펴보세요.\" 짝이 물었습니다. \"예약 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 進行役は「目録から始めて、次に貸出と返却を確認してください」と言いました。相手が「予約はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. \"Empieza con catálogo\", dijo la persona responsable. \"Después revisa préstamo y devolución\". Alguien preguntó: \"¿Y reserva?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "text": [
+      "\"Start with catalog,\" the organizer said. \"Then review loan and return.\" A partner asked, \"What about reservation?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "진행자가 말했습니다. \"목록 항목부터 시작하세요. 그다음 대출, 반납 항목을 살펴보세요.\" 짝이 물었습니다. \"예약 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "進行役は「目録から始めて、次に貸出と返却を確認してください」と言いました。相手が「予約はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "\"Empieza con catálogo\", dijo la persona responsable. \"Después revisa préstamo y devolución\". Alguien preguntó: \"¿Y reserva?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "library-desk-handover",
+    "title": [
+      "Library desk · Action handover",
+      "도서관 안내 · 인수인계",
+      "図書館カウンター · 引き継ぎ",
+      "Mostrador de biblioteca · Relevo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Handover: Library desk. Completed: review of catalog and loan. Next action: check return. Open question: who will update reservation? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 인수인계: 도서관 안내. 완료: 목록, 대출 검토. 다음 작업: 반납 확인. 남은 질문: 예약 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 引き継ぎ：図書館カウンター。完了：目録と貸出の検討。次の作業：返却の確認。未解決の質問：予約は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Relevo: Mostrador de biblioteca. Terminado: revisión de catálogo y préstamo. Siguiente paso: comprobar devolución. Pregunta pendiente: ¿quién actualizará reserva? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "text": [
+      "Handover: Library desk. Completed: review of catalog and loan. Next action: check return. Open question: who will update reservation? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "인수인계: 도서관 안내. 완료: 목록, 대출 검토. 다음 작업: 반납 확인. 남은 질문: 예약 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "引き継ぎ：図書館カウンター。完了：目録と貸出の検討。次の作業：返却の確認。未解決の質問：予約は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Relevo: Mostrador de biblioteca. Terminado: revisión de catálogo y préstamo. Siguiente paso: comprobar devolución. Pregunta pendiente: ¿quién actualizará reserva? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "museum-visit-dialogue",
+    "title": [
+      "Museum visit · Dialogue",
+      "박물관 관람 · 대화문",
+      "博物館見学 · 会話文",
+      "Visita al museo · Diálogo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. A: Where should we record gallery? B: Put it beside label. A: Should we include sketch too? B: Yes, but check guide first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 가: 전시실 항목은 어디에 기록할까요? 나: 설명표 옆에 적어 주세요. 가: 스케치 항목도 넣을까요? 나: 네, 먼저 안내원 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 A：展示室はどこに記録しますか？ B：解説の隣に書きます。 A：スケッチも入れますか？ B：はい、先に案内人を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. A: ¿Dónde anotamos galería? B: Junto a cartela. A: ¿Incluimos también boceto? B: Sí, pero revisa primero guía. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "text": [
+      "A: Where should we record gallery? B: Put it beside label. A: Should we include sketch too? B: Yes, but check guide first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "가: 전시실 항목은 어디에 기록할까요? 나: 설명표 옆에 적어 주세요. 가: 스케치 항목도 넣을까요? 나: 네, 먼저 안내원 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "A：展示室はどこに記録しますか？ B：解説の隣に書きます。 A：スケッチも入れますか？ B：はい、先に案内人を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "A: ¿Dónde anotamos galería? B: Junto a cartela. A: ¿Incluimos también boceto? B: Sí, pero revisa primero guía. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "museum-visit-activity-log",
+    "title": [
+      "Museum visit · Activity log",
+      "박물관 관람 · 활동 기록",
+      "博物館見学 · 活動記録",
+      "Visita al museo · Registro"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. 09:00 - Review: gallery. 09:15 - Prepare: label. 09:30 - Check: sketch. 09:45 - Record: guide. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 09:00 - 검토: 전시실. 09:15 - 준비: 설명표. 09:30 - 확인: 스케치. 09:45 - 기록: 안내원. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 09:00 - 検討：展示室。09:15 - 準備：解説。09:30 - 確認：スケッチ。09:45 - 記録：案内人。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. 09:00 - Revisar: galería. 09:15 - Preparar: cartela. 09:30 - Comprobar: boceto. 09:45 - Anotar: guía. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "text": [
+      "09:00 - Review: gallery. 09:15 - Prepare: label. 09:30 - Check: sketch. 09:45 - Record: guide. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "09:00 - 검토: 전시실. 09:15 - 준비: 설명표. 09:30 - 확인: 스케치. 09:45 - 기록: 안내원. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "09:00 - 検討：展示室。09:15 - 準備：解説。09:30 - 確認：スケッチ。09:45 - 記録：案内人。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "09:00 - Revisar: galería. 09:15 - Preparar: cartela. 09:30 - Comprobar: boceto. 09:45 - Anotar: guía. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "museum-visit-inventory",
+    "title": [
+      "Museum visit · Inventory",
+      "박물관 관람 · 물품 기록",
+      "博物館見学 · 品目記録",
+      "Visita al museo · Inventario"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Record 01: gallery (checked). Record 02: label (pending). Record 03: sketch (checked). Record 04: guide (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 기록 01: 전시실 (확인). 기록 02: 설명표 (대기). 기록 03: 스케치 (확인). 기록 04: 안내원 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 記録01：展示室（確認済み）。記録02：解説（保留）。記録03：スケッチ（確認済み）。記録04：案内人（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Registro 01: galería (revisado). Registro 02: cartela (pendiente). Registro 03: boceto (revisado). Registro 04: guía (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "text": [
+      "Record 01: gallery (checked). Record 02: label (pending). Record 03: sketch (checked). Record 04: guide (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "기록 01: 전시실 (확인). 기록 02: 설명표 (대기). 기록 03: 스케치 (확인). 기록 04: 안내원 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "記録01：展示室（確認済み）。記録02：解説（保留）。記録03：スケッチ（確認済み）。記録04：案内人（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Registro 01: galería (revisado). Registro 02: cartela (pendiente). Registro 03: boceto (revisado). Registro 04: guía (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "museum-visit-quoted-speech",
+    "title": [
+      "Museum visit · Quoted speech",
+      "박물관 관람 · 인용문",
+      "博物館見学 · 引用文",
+      "Visita al museo · Citas"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. \"Start with gallery,\" the organizer said. \"Then review label and sketch.\" A partner asked, \"What about guide?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 진행자가 말했습니다. \"전시실 항목부터 시작하세요. 그다음 설명표, 스케치 항목을 살펴보세요.\" 짝이 물었습니다. \"안내원 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 進行役は「展示室から始めて、次に解説とスケッチを確認してください」と言いました。相手が「案内人はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. \"Empieza con galería\", dijo la persona responsable. \"Después revisa cartela y boceto\". Alguien preguntó: \"¿Y guía?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "text": [
+      "\"Start with gallery,\" the organizer said. \"Then review label and sketch.\" A partner asked, \"What about guide?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "진행자가 말했습니다. \"전시실 항목부터 시작하세요. 그다음 설명표, 스케치 항목을 살펴보세요.\" 짝이 물었습니다. \"안내원 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "進行役は「展示室から始めて、次に解説とスケッチを確認してください」と言いました。相手が「案内人はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "\"Empieza con galería\", dijo la persona responsable. \"Después revisa cartela y boceto\". Alguien preguntó: \"¿Y guía?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "museum-visit-handover",
+    "title": [
+      "Museum visit · Action handover",
+      "박물관 관람 · 인수인계",
+      "博物館見学 · 引き継ぎ",
+      "Visita al museo · Relevo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Handover: Museum visit. Completed: review of gallery and label. Next action: check sketch. Open question: who will update guide? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 인수인계: 박물관 관람. 완료: 전시실, 설명표 검토. 다음 작업: 스케치 확인. 남은 질문: 안내원 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 引き継ぎ：博物館見学。完了：展示室と解説の検討。次の作業：スケッチの確認。未解決の質問：案内人は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Relevo: Visita al museo. Terminado: revisión de galería y cartela. Siguiente paso: comprobar boceto. Pregunta pendiente: ¿quién actualizará guía? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "text": [
+      "Handover: Museum visit. Completed: review of gallery and label. Next action: check sketch. Open question: who will update guide? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "인수인계: 박물관 관람. 완료: 전시실, 설명표 검토. 다음 작업: 스케치 확인. 남은 질문: 안내원 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "引き継ぎ：博物館見学。完了：展示室と解説の検討。次の作業：スケッチの確認。未解決の質問：案内人は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Relevo: Visita al museo. Terminado: revisión de galería y cartela. Siguiente paso: comprobar boceto. Pregunta pendiente: ¿quién actualizará guía? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "bakery-order-dialogue",
+    "title": [
+      "Bakery order · Dialogue",
+      "빵집 주문 · 대화문",
+      "パン屋の注文 · 会話文",
+      "Pedido en panadería · Diálogo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. A: Where should we record loaf? B: Put it beside roll. A: Should we include tray too? B: Yes, but check flour first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 가: 식빵 항목은 어디에 기록할까요? 나: 모닝빵 옆에 적어 주세요. 가: 쟁반 항목도 넣을까요? 나: 네, 먼저 밀가루 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 A：食パンはどこに記録しますか？ B：丸パンの隣に書きます。 A：トレーも入れますか？ B：はい、先に小麦粉を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. A: ¿Dónde anotamos hogaza? B: Junto a panecillo. A: ¿Incluimos también bandeja? B: Sí, pero revisa primero harina. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "text": [
+      "A: Where should we record loaf? B: Put it beside roll. A: Should we include tray too? B: Yes, but check flour first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "가: 식빵 항목은 어디에 기록할까요? 나: 모닝빵 옆에 적어 주세요. 가: 쟁반 항목도 넣을까요? 나: 네, 먼저 밀가루 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "A：食パンはどこに記録しますか？ B：丸パンの隣に書きます。 A：トレーも入れますか？ B：はい、先に小麦粉を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "A: ¿Dónde anotamos hogaza? B: Junto a panecillo. A: ¿Incluimos también bandeja? B: Sí, pero revisa primero harina. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "bakery-order-activity-log",
+    "title": [
+      "Bakery order · Activity log",
+      "빵집 주문 · 활동 기록",
+      "パン屋の注文 · 活動記録",
+      "Pedido en panadería · Registro"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. 09:00 - Review: loaf. 09:15 - Prepare: roll. 09:30 - Check: tray. 09:45 - Record: flour. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 09:00 - 검토: 식빵. 09:15 - 준비: 모닝빵. 09:30 - 확인: 쟁반. 09:45 - 기록: 밀가루. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 09:00 - 検討：食パン。09:15 - 準備：丸パン。09:30 - 確認：トレー。09:45 - 記録：小麦粉。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. 09:00 - Revisar: hogaza. 09:15 - Preparar: panecillo. 09:30 - Comprobar: bandeja. 09:45 - Anotar: harina. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "text": [
+      "09:00 - Review: loaf. 09:15 - Prepare: roll. 09:30 - Check: tray. 09:45 - Record: flour. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "09:00 - 검토: 식빵. 09:15 - 준비: 모닝빵. 09:30 - 확인: 쟁반. 09:45 - 기록: 밀가루. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "09:00 - 検討：食パン。09:15 - 準備：丸パン。09:30 - 確認：トレー。09:45 - 記録：小麦粉。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "09:00 - Revisar: hogaza. 09:15 - Preparar: panecillo. 09:30 - Comprobar: bandeja. 09:45 - Anotar: harina. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "bakery-order-inventory",
+    "title": [
+      "Bakery order · Inventory",
+      "빵집 주문 · 물품 기록",
+      "パン屋の注文 · 品目記録",
+      "Pedido en panadería · Inventario"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Record 01: loaf (checked). Record 02: roll (pending). Record 03: tray (checked). Record 04: flour (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 기록 01: 식빵 (확인). 기록 02: 모닝빵 (대기). 기록 03: 쟁반 (확인). 기록 04: 밀가루 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 記録01：食パン（確認済み）。記録02：丸パン（保留）。記録03：トレー（確認済み）。記録04：小麦粉（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Registro 01: hogaza (revisado). Registro 02: panecillo (pendiente). Registro 03: bandeja (revisado). Registro 04: harina (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "text": [
+      "Record 01: loaf (checked). Record 02: roll (pending). Record 03: tray (checked). Record 04: flour (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "기록 01: 식빵 (확인). 기록 02: 모닝빵 (대기). 기록 03: 쟁반 (확인). 기록 04: 밀가루 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "記録01：食パン（確認済み）。記録02：丸パン（保留）。記録03：トレー（確認済み）。記録04：小麦粉（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Registro 01: hogaza (revisado). Registro 02: panecillo (pendiente). Registro 03: bandeja (revisado). Registro 04: harina (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "bakery-order-quoted-speech",
+    "title": [
+      "Bakery order · Quoted speech",
+      "빵집 주문 · 인용문",
+      "パン屋の注文 · 引用文",
+      "Pedido en panadería · Citas"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. \"Start with loaf,\" the organizer said. \"Then review roll and tray.\" A partner asked, \"What about flour?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 진행자가 말했습니다. \"식빵 항목부터 시작하세요. 그다음 모닝빵, 쟁반 항목을 살펴보세요.\" 짝이 물었습니다. \"밀가루 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 進行役は「食パンから始めて、次に丸パンとトレーを確認してください」と言いました。相手が「小麦粉はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. \"Empieza con hogaza\", dijo la persona responsable. \"Después revisa panecillo y bandeja\". Alguien preguntó: \"¿Y harina?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "text": [
+      "\"Start with loaf,\" the organizer said. \"Then review roll and tray.\" A partner asked, \"What about flour?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "진행자가 말했습니다. \"식빵 항목부터 시작하세요. 그다음 모닝빵, 쟁반 항목을 살펴보세요.\" 짝이 물었습니다. \"밀가루 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "進行役は「食パンから始めて、次に丸パンとトレーを確認してください」と言いました。相手が「小麦粉はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "\"Empieza con hogaza\", dijo la persona responsable. \"Después revisa panecillo y bandeja\". Alguien preguntó: \"¿Y harina?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "bakery-order-handover",
+    "title": [
+      "Bakery order · Action handover",
+      "빵집 주문 · 인수인계",
+      "パン屋の注文 · 引き継ぎ",
+      "Pedido en panadería · Relevo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Handover: Bakery order. Completed: review of loaf and roll. Next action: check tray. Open question: who will update flour? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 인수인계: 빵집 주문. 완료: 식빵, 모닝빵 검토. 다음 작업: 쟁반 확인. 남은 질문: 밀가루 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 引き継ぎ：パン屋の注文。完了：食パンと丸パンの検討。次の作業：トレーの確認。未解決の質問：小麦粉は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Relevo: Pedido en panadería. Terminado: revisión de hogaza y panecillo. Siguiente paso: comprobar bandeja. Pregunta pendiente: ¿quién actualizará harina? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "text": [
+      "Handover: Bakery order. Completed: review of loaf and roll. Next action: check tray. Open question: who will update flour? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "인수인계: 빵집 주문. 완료: 식빵, 모닝빵 검토. 다음 작업: 쟁반 확인. 남은 질문: 밀가루 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "引き継ぎ：パン屋の注文。完了：食パンと丸パンの検討。次の作業：トレーの確認。未解決の質問：小麦粉は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Relevo: Pedido en panadería. Terminado: revisión de hogaza y panecillo. Siguiente paso: comprobar bandeja. Pregunta pendiente: ¿quién actualizará harina? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "market-stall-dialogue",
+    "title": [
+      "Market stall · Dialogue",
+      "시장 가판대 · 대화문",
+      "市場の売り場 · 会話文",
+      "Puesto de mercado · Diálogo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. A: Where should we record basket? B: Put it beside price. A: Should we include scale too? B: Yes, but check stall first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 가: 바구니 항목은 어디에 기록할까요? 나: 가격 옆에 적어 주세요. 가: 저울 항목도 넣을까요? 나: 네, 먼저 가판대 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 A：かごはどこに記録しますか？ B：値段の隣に書きます。 A：はかりも入れますか？ B：はい、先に売り場を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. A: ¿Dónde anotamos cesta? B: Junto a precio. A: ¿Incluimos también balanza? B: Sí, pero revisa primero puesto. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "text": [
+      "A: Where should we record basket? B: Put it beside price. A: Should we include scale too? B: Yes, but check stall first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "가: 바구니 항목은 어디에 기록할까요? 나: 가격 옆에 적어 주세요. 가: 저울 항목도 넣을까요? 나: 네, 먼저 가판대 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "A：かごはどこに記録しますか？ B：値段の隣に書きます。 A：はかりも入れますか？ B：はい、先に売り場を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "A: ¿Dónde anotamos cesta? B: Junto a precio. A: ¿Incluimos también balanza? B: Sí, pero revisa primero puesto. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "market-stall-activity-log",
+    "title": [
+      "Market stall · Activity log",
+      "시장 가판대 · 활동 기록",
+      "市場の売り場 · 活動記録",
+      "Puesto de mercado · Registro"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. 09:00 - Review: basket. 09:15 - Prepare: price. 09:30 - Check: scale. 09:45 - Record: stall. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 09:00 - 검토: 바구니. 09:15 - 준비: 가격. 09:30 - 확인: 저울. 09:45 - 기록: 가판대. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 09:00 - 検討：かご。09:15 - 準備：値段。09:30 - 確認：はかり。09:45 - 記録：売り場。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. 09:00 - Revisar: cesta. 09:15 - Preparar: precio. 09:30 - Comprobar: balanza. 09:45 - Anotar: puesto. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "text": [
+      "09:00 - Review: basket. 09:15 - Prepare: price. 09:30 - Check: scale. 09:45 - Record: stall. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "09:00 - 검토: 바구니. 09:15 - 준비: 가격. 09:30 - 확인: 저울. 09:45 - 기록: 가판대. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "09:00 - 検討：かご。09:15 - 準備：値段。09:30 - 確認：はかり。09:45 - 記録：売り場。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "09:00 - Revisar: cesta. 09:15 - Preparar: precio. 09:30 - Comprobar: balanza. 09:45 - Anotar: puesto. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "market-stall-inventory",
+    "title": [
+      "Market stall · Inventory",
+      "시장 가판대 · 물품 기록",
+      "市場の売り場 · 品目記録",
+      "Puesto de mercado · Inventario"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Record 01: basket (checked). Record 02: price (pending). Record 03: scale (checked). Record 04: stall (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 기록 01: 바구니 (확인). 기록 02: 가격 (대기). 기록 03: 저울 (확인). 기록 04: 가판대 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 記録01：かご（確認済み）。記録02：値段（保留）。記録03：はかり（確認済み）。記録04：売り場（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Registro 01: cesta (revisado). Registro 02: precio (pendiente). Registro 03: balanza (revisado). Registro 04: puesto (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "text": [
+      "Record 01: basket (checked). Record 02: price (pending). Record 03: scale (checked). Record 04: stall (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "기록 01: 바구니 (확인). 기록 02: 가격 (대기). 기록 03: 저울 (확인). 기록 04: 가판대 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "記録01：かご（確認済み）。記録02：値段（保留）。記録03：はかり（確認済み）。記録04：売り場（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Registro 01: cesta (revisado). Registro 02: precio (pendiente). Registro 03: balanza (revisado). Registro 04: puesto (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "market-stall-quoted-speech",
+    "title": [
+      "Market stall · Quoted speech",
+      "시장 가판대 · 인용문",
+      "市場の売り場 · 引用文",
+      "Puesto de mercado · Citas"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. \"Start with basket,\" the organizer said. \"Then review price and scale.\" A partner asked, \"What about stall?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 진행자가 말했습니다. \"바구니 항목부터 시작하세요. 그다음 가격, 저울 항목을 살펴보세요.\" 짝이 물었습니다. \"가판대 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 進行役は「かごから始めて、次に値段とはかりを確認してください」と言いました。相手が「売り場はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. \"Empieza con cesta\", dijo la persona responsable. \"Después revisa precio y balanza\". Alguien preguntó: \"¿Y puesto?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "text": [
+      "\"Start with basket,\" the organizer said. \"Then review price and scale.\" A partner asked, \"What about stall?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "진행자가 말했습니다. \"바구니 항목부터 시작하세요. 그다음 가격, 저울 항목을 살펴보세요.\" 짝이 물었습니다. \"가판대 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "進行役は「かごから始めて、次に値段とはかりを確認してください」と言いました。相手が「売り場はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "\"Empieza con cesta\", dijo la persona responsable. \"Después revisa precio y balanza\". Alguien preguntó: \"¿Y puesto?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "market-stall-handover",
+    "title": [
+      "Market stall · Action handover",
+      "시장 가판대 · 인수인계",
+      "市場の売り場 · 引き継ぎ",
+      "Puesto de mercado · Relevo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Handover: Market stall. Completed: review of basket and price. Next action: check scale. Open question: who will update stall? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 인수인계: 시장 가판대. 완료: 바구니, 가격 검토. 다음 작업: 저울 확인. 남은 질문: 가판대 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 引き継ぎ：市場の売り場。完了：かごと値段の検討。次の作業：はかりの確認。未解決の質問：売り場は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Relevo: Puesto de mercado. Terminado: revisión de cesta y precio. Siguiente paso: comprobar balanza. Pregunta pendiente: ¿quién actualizará puesto? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "text": [
+      "Handover: Market stall. Completed: review of basket and price. Next action: check scale. Open question: who will update stall? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "인수인계: 시장 가판대. 완료: 바구니, 가격 검토. 다음 작업: 저울 확인. 남은 질문: 가판대 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "引き継ぎ：市場の売り場。完了：かごと値段の検討。次の作業：はかりの確認。未解決の質問：売り場は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Relevo: Puesto de mercado. Terminado: revisión de cesta y precio. Siguiente paso: comprobar balanza. Pregunta pendiente: ¿quién actualizará puesto? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "train-journey-dialogue",
+    "title": [
+      "Train journey · Dialogue",
+      "기차 여행 · 대화문",
+      "列車の旅 · 会話文",
+      "Viaje en tren · Diálogo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. A: Where should we record platform? B: Put it beside carriage. A: Should we include seat too? B: Yes, but check ticket first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 가: 승강장 항목은 어디에 기록할까요? 나: 객차 옆에 적어 주세요. 가: 좌석 항목도 넣을까요? 나: 네, 먼저 승차권 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 A：ホームはどこに記録しますか？ B：車両の隣に書きます。 A：座席も入れますか？ B：はい、先に切符を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. A: ¿Dónde anotamos andén? B: Junto a vagón. A: ¿Incluimos también asiento? B: Sí, pero revisa primero billete. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "text": [
+      "A: Where should we record platform? B: Put it beside carriage. A: Should we include seat too? B: Yes, but check ticket first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "가: 승강장 항목은 어디에 기록할까요? 나: 객차 옆에 적어 주세요. 가: 좌석 항목도 넣을까요? 나: 네, 먼저 승차권 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "A：ホームはどこに記録しますか？ B：車両の隣に書きます。 A：座席も入れますか？ B：はい、先に切符を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "A: ¿Dónde anotamos andén? B: Junto a vagón. A: ¿Incluimos también asiento? B: Sí, pero revisa primero billete. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "train-journey-activity-log",
+    "title": [
+      "Train journey · Activity log",
+      "기차 여행 · 활동 기록",
+      "列車の旅 · 活動記録",
+      "Viaje en tren · Registro"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. 09:00 - Review: platform. 09:15 - Prepare: carriage. 09:30 - Check: seat. 09:45 - Record: ticket. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 09:00 - 검토: 승강장. 09:15 - 준비: 객차. 09:30 - 확인: 좌석. 09:45 - 기록: 승차권. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 09:00 - 検討：ホーム。09:15 - 準備：車両。09:30 - 確認：座席。09:45 - 記録：切符。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. 09:00 - Revisar: andén. 09:15 - Preparar: vagón. 09:30 - Comprobar: asiento. 09:45 - Anotar: billete. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "text": [
+      "09:00 - Review: platform. 09:15 - Prepare: carriage. 09:30 - Check: seat. 09:45 - Record: ticket. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "09:00 - 검토: 승강장. 09:15 - 준비: 객차. 09:30 - 확인: 좌석. 09:45 - 기록: 승차권. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "09:00 - 検討：ホーム。09:15 - 準備：車両。09:30 - 確認：座席。09:45 - 記録：切符。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "09:00 - Revisar: andén. 09:15 - Preparar: vagón. 09:30 - Comprobar: asiento. 09:45 - Anotar: billete. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "train-journey-inventory",
+    "title": [
+      "Train journey · Inventory",
+      "기차 여행 · 물품 기록",
+      "列車の旅 · 品目記録",
+      "Viaje en tren · Inventario"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Record 01: platform (checked). Record 02: carriage (pending). Record 03: seat (checked). Record 04: ticket (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 기록 01: 승강장 (확인). 기록 02: 객차 (대기). 기록 03: 좌석 (확인). 기록 04: 승차권 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 記録01：ホーム（確認済み）。記録02：車両（保留）。記録03：座席（確認済み）。記録04：切符（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Registro 01: andén (revisado). Registro 02: vagón (pendiente). Registro 03: asiento (revisado). Registro 04: billete (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "text": [
+      "Record 01: platform (checked). Record 02: carriage (pending). Record 03: seat (checked). Record 04: ticket (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "기록 01: 승강장 (확인). 기록 02: 객차 (대기). 기록 03: 좌석 (확인). 기록 04: 승차권 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "記録01：ホーム（確認済み）。記録02：車両（保留）。記録03：座席（確認済み）。記録04：切符（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Registro 01: andén (revisado). Registro 02: vagón (pendiente). Registro 03: asiento (revisado). Registro 04: billete (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "train-journey-quoted-speech",
+    "title": [
+      "Train journey · Quoted speech",
+      "기차 여행 · 인용문",
+      "列車の旅 · 引用文",
+      "Viaje en tren · Citas"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. \"Start with platform,\" the organizer said. \"Then review carriage and seat.\" A partner asked, \"What about ticket?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 진행자가 말했습니다. \"승강장 항목부터 시작하세요. 그다음 객차, 좌석 항목을 살펴보세요.\" 짝이 물었습니다. \"승차권 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 進行役は「ホームから始めて、次に車両と座席を確認してください」と言いました。相手が「切符はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. \"Empieza con andén\", dijo la persona responsable. \"Después revisa vagón y asiento\". Alguien preguntó: \"¿Y billete?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "text": [
+      "\"Start with platform,\" the organizer said. \"Then review carriage and seat.\" A partner asked, \"What about ticket?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "진행자가 말했습니다. \"승강장 항목부터 시작하세요. 그다음 객차, 좌석 항목을 살펴보세요.\" 짝이 물었습니다. \"승차권 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "進行役は「ホームから始めて、次に車両と座席を確認してください」と言いました。相手が「切符はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "\"Empieza con andén\", dijo la persona responsable. \"Después revisa vagón y asiento\". Alguien preguntó: \"¿Y billete?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "train-journey-handover",
+    "title": [
+      "Train journey · Action handover",
+      "기차 여행 · 인수인계",
+      "列車の旅 · 引き継ぎ",
+      "Viaje en tren · Relevo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Handover: Train journey. Completed: review of platform and carriage. Next action: check seat. Open question: who will update ticket? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 인수인계: 기차 여행. 완료: 승강장, 객차 검토. 다음 작업: 좌석 확인. 남은 질문: 승차권 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 引き継ぎ：列車の旅。完了：ホームと車両の検討。次の作業：座席の確認。未解決の質問：切符は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Relevo: Viaje en tren. Terminado: revisión de andén y vagón. Siguiente paso: comprobar asiento. Pregunta pendiente: ¿quién actualizará billete? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "text": [
+      "Handover: Train journey. Completed: review of platform and carriage. Next action: check seat. Open question: who will update ticket? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "인수인계: 기차 여행. 완료: 승강장, 객차 검토. 다음 작업: 좌석 확인. 남은 질문: 승차권 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "引き継ぎ：列車の旅。完了：ホームと車両の検討。次の作業：座席の確認。未解決の質問：切符は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Relevo: Viaje en tren. Terminado: revisión de andén y vagón. Siguiente paso: comprobar asiento. Pregunta pendiente: ¿quién actualizará billete? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "airport-checkin-dialogue",
+    "title": [
+      "Airport check-in · Dialogue",
+      "공항 탑승 준비 · 대화문",
+      "空港チェックイン · 会話文",
+      "Facturación en aeropuerto · Diálogo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. A: Where should we record terminal? B: Put it beside gate. A: Should we include passport too? B: Yes, but check boarding first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 가: 터미널 항목은 어디에 기록할까요? 나: 탑승구 옆에 적어 주세요. 가: 여권 항목도 넣을까요? 나: 네, 먼저 탑승 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 A：ターミナルはどこに記録しますか？ B：搭乗口の隣に書きます。 A：旅券も入れますか？ B：はい、先に搭乗を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. A: ¿Dónde anotamos terminal? B: Junto a puerta. A: ¿Incluimos también pasaporte? B: Sí, pero revisa primero embarque. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "text": [
+      "A: Where should we record terminal? B: Put it beside gate. A: Should we include passport too? B: Yes, but check boarding first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "가: 터미널 항목은 어디에 기록할까요? 나: 탑승구 옆에 적어 주세요. 가: 여권 항목도 넣을까요? 나: 네, 먼저 탑승 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "A：ターミナルはどこに記録しますか？ B：搭乗口の隣に書きます。 A：旅券も入れますか？ B：はい、先に搭乗を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "A: ¿Dónde anotamos terminal? B: Junto a puerta. A: ¿Incluimos también pasaporte? B: Sí, pero revisa primero embarque. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "airport-checkin-activity-log",
+    "title": [
+      "Airport check-in · Activity log",
+      "공항 탑승 준비 · 활동 기록",
+      "空港チェックイン · 活動記録",
+      "Facturación en aeropuerto · Registro"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. 09:00 - Review: terminal. 09:15 - Prepare: gate. 09:30 - Check: passport. 09:45 - Record: boarding. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 09:00 - 검토: 터미널. 09:15 - 준비: 탑승구. 09:30 - 확인: 여권. 09:45 - 기록: 탑승. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 09:00 - 検討：ターミナル。09:15 - 準備：搭乗口。09:30 - 確認：旅券。09:45 - 記録：搭乗。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. 09:00 - Revisar: terminal. 09:15 - Preparar: puerta. 09:30 - Comprobar: pasaporte. 09:45 - Anotar: embarque. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "text": [
+      "09:00 - Review: terminal. 09:15 - Prepare: gate. 09:30 - Check: passport. 09:45 - Record: boarding. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "09:00 - 검토: 터미널. 09:15 - 준비: 탑승구. 09:30 - 확인: 여권. 09:45 - 기록: 탑승. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "09:00 - 検討：ターミナル。09:15 - 準備：搭乗口。09:30 - 確認：旅券。09:45 - 記録：搭乗。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "09:00 - Revisar: terminal. 09:15 - Preparar: puerta. 09:30 - Comprobar: pasaporte. 09:45 - Anotar: embarque. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "airport-checkin-inventory",
+    "title": [
+      "Airport check-in · Inventory",
+      "공항 탑승 준비 · 물품 기록",
+      "空港チェックイン · 品目記録",
+      "Facturación en aeropuerto · Inventario"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Record 01: terminal (checked). Record 02: gate (pending). Record 03: passport (checked). Record 04: boarding (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 기록 01: 터미널 (확인). 기록 02: 탑승구 (대기). 기록 03: 여권 (확인). 기록 04: 탑승 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 記録01：ターミナル（確認済み）。記録02：搭乗口（保留）。記録03：旅券（確認済み）。記録04：搭乗（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Registro 01: terminal (revisado). Registro 02: puerta (pendiente). Registro 03: pasaporte (revisado). Registro 04: embarque (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "text": [
+      "Record 01: terminal (checked). Record 02: gate (pending). Record 03: passport (checked). Record 04: boarding (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "기록 01: 터미널 (확인). 기록 02: 탑승구 (대기). 기록 03: 여권 (확인). 기록 04: 탑승 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "記録01：ターミナル（確認済み）。記録02：搭乗口（保留）。記録03：旅券（確認済み）。記録04：搭乗（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Registro 01: terminal (revisado). Registro 02: puerta (pendiente). Registro 03: pasaporte (revisado). Registro 04: embarque (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "airport-checkin-quoted-speech",
+    "title": [
+      "Airport check-in · Quoted speech",
+      "공항 탑승 준비 · 인용문",
+      "空港チェックイン · 引用文",
+      "Facturación en aeropuerto · Citas"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. \"Start with terminal,\" the organizer said. \"Then review gate and passport.\" A partner asked, \"What about boarding?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 진행자가 말했습니다. \"터미널 항목부터 시작하세요. 그다음 탑승구, 여권 항목을 살펴보세요.\" 짝이 물었습니다. \"탑승 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 進行役は「ターミナルから始めて、次に搭乗口と旅券を確認してください」と言いました。相手が「搭乗はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. \"Empieza con terminal\", dijo la persona responsable. \"Después revisa puerta y pasaporte\". Alguien preguntó: \"¿Y embarque?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "text": [
+      "\"Start with terminal,\" the organizer said. \"Then review gate and passport.\" A partner asked, \"What about boarding?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "진행자가 말했습니다. \"터미널 항목부터 시작하세요. 그다음 탑승구, 여권 항목을 살펴보세요.\" 짝이 물었습니다. \"탑승 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "進行役は「ターミナルから始めて、次に搭乗口と旅券を確認してください」と言いました。相手が「搭乗はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "\"Empieza con terminal\", dijo la persona responsable. \"Después revisa puerta y pasaporte\". Alguien preguntó: \"¿Y embarque?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "airport-checkin-handover",
+    "title": [
+      "Airport check-in · Action handover",
+      "공항 탑승 준비 · 인수인계",
+      "空港チェックイン · 引き継ぎ",
+      "Facturación en aeropuerto · Relevo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Handover: Airport check-in. Completed: review of terminal and gate. Next action: check passport. Open question: who will update boarding? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 인수인계: 공항 탑승 준비. 완료: 터미널, 탑승구 검토. 다음 작업: 여권 확인. 남은 질문: 탑승 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 引き継ぎ：空港チェックイン。完了：ターミナルと搭乗口の検討。次の作業：旅券の確認。未解決の質問：搭乗は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Relevo: Facturación en aeropuerto. Terminado: revisión de terminal y puerta. Siguiente paso: comprobar pasaporte. Pregunta pendiente: ¿quién actualizará embarque? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "text": [
+      "Handover: Airport check-in. Completed: review of terminal and gate. Next action: check passport. Open question: who will update boarding? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "인수인계: 공항 탑승 준비. 완료: 터미널, 탑승구 검토. 다음 작업: 여권 확인. 남은 질문: 탑승 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "引き継ぎ：空港チェックイン。完了：ターミナルと搭乗口の検討。次の作業：旅券の確認。未解決の質問：搭乗は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Relevo: Facturación en aeropuerto. Terminado: revisión de terminal y puerta. Siguiente paso: comprobar pasaporte. Pregunta pendiente: ¿quién actualizará embarque? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "hotel-arrival-dialogue",
+    "title": [
+      "Hotel arrival · Dialogue",
+      "호텔 도착 · 대화문",
+      "ホテル到着 · 会話文",
+      "Llegada al hotel · Diálogo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. A: Where should we record reception? B: Put it beside booking. A: Should we include key too? B: Yes, but check lift first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 가: 프런트 항목은 어디에 기록할까요? 나: 예약 옆에 적어 주세요. 가: 열쇠 항목도 넣을까요? 나: 네, 먼저 승강기 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 A：フロントはどこに記録しますか？ B：予約の隣に書きます。 A：鍵も入れますか？ B：はい、先にエレベーターを確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. A: ¿Dónde anotamos recepción? B: Junto a reserva. A: ¿Incluimos también llave? B: Sí, pero revisa primero ascensor. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "text": [
+      "A: Where should we record reception? B: Put it beside booking. A: Should we include key too? B: Yes, but check lift first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "가: 프런트 항목은 어디에 기록할까요? 나: 예약 옆에 적어 주세요. 가: 열쇠 항목도 넣을까요? 나: 네, 먼저 승강기 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "A：フロントはどこに記録しますか？ B：予約の隣に書きます。 A：鍵も入れますか？ B：はい、先にエレベーターを確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "A: ¿Dónde anotamos recepción? B: Junto a reserva. A: ¿Incluimos también llave? B: Sí, pero revisa primero ascensor. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "hotel-arrival-activity-log",
+    "title": [
+      "Hotel arrival · Activity log",
+      "호텔 도착 · 활동 기록",
+      "ホテル到着 · 活動記録",
+      "Llegada al hotel · Registro"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. 09:00 - Review: reception. 09:15 - Prepare: booking. 09:30 - Check: key. 09:45 - Record: lift. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 09:00 - 검토: 프런트. 09:15 - 준비: 예약. 09:30 - 확인: 열쇠. 09:45 - 기록: 승강기. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 09:00 - 検討：フロント。09:15 - 準備：予約。09:30 - 確認：鍵。09:45 - 記録：エレベーター。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. 09:00 - Revisar: recepción. 09:15 - Preparar: reserva. 09:30 - Comprobar: llave. 09:45 - Anotar: ascensor. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "text": [
+      "09:00 - Review: reception. 09:15 - Prepare: booking. 09:30 - Check: key. 09:45 - Record: lift. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "09:00 - 검토: 프런트. 09:15 - 준비: 예약. 09:30 - 확인: 열쇠. 09:45 - 기록: 승강기. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "09:00 - 検討：フロント。09:15 - 準備：予約。09:30 - 確認：鍵。09:45 - 記録：エレベーター。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "09:00 - Revisar: recepción. 09:15 - Preparar: reserva. 09:30 - Comprobar: llave. 09:45 - Anotar: ascensor. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "hotel-arrival-inventory",
+    "title": [
+      "Hotel arrival · Inventory",
+      "호텔 도착 · 물품 기록",
+      "ホテル到着 · 品目記録",
+      "Llegada al hotel · Inventario"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Record 01: reception (checked). Record 02: booking (pending). Record 03: key (checked). Record 04: lift (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 기록 01: 프런트 (확인). 기록 02: 예약 (대기). 기록 03: 열쇠 (확인). 기록 04: 승강기 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 記録01：フロント（確認済み）。記録02：予約（保留）。記録03：鍵（確認済み）。記録04：エレベーター（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Registro 01: recepción (revisado). Registro 02: reserva (pendiente). Registro 03: llave (revisado). Registro 04: ascensor (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "text": [
+      "Record 01: reception (checked). Record 02: booking (pending). Record 03: key (checked). Record 04: lift (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "기록 01: 프런트 (확인). 기록 02: 예약 (대기). 기록 03: 열쇠 (확인). 기록 04: 승강기 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "記録01：フロント（確認済み）。記録02：予約（保留）。記録03：鍵（確認済み）。記録04：エレベーター（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Registro 01: recepción (revisado). Registro 02: reserva (pendiente). Registro 03: llave (revisado). Registro 04: ascensor (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "hotel-arrival-quoted-speech",
+    "title": [
+      "Hotel arrival · Quoted speech",
+      "호텔 도착 · 인용문",
+      "ホテル到着 · 引用文",
+      "Llegada al hotel · Citas"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. \"Start with reception,\" the organizer said. \"Then review booking and key.\" A partner asked, \"What about lift?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 진행자가 말했습니다. \"프런트 항목부터 시작하세요. 그다음 예약, 열쇠 항목을 살펴보세요.\" 짝이 물었습니다. \"승강기 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 進行役は「フロントから始めて、次に予約と鍵を確認してください」と言いました。相手が「エレベーターはどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. \"Empieza con recepción\", dijo la persona responsable. \"Después revisa reserva y llave\". Alguien preguntó: \"¿Y ascensor?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "text": [
+      "\"Start with reception,\" the organizer said. \"Then review booking and key.\" A partner asked, \"What about lift?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "진행자가 말했습니다. \"프런트 항목부터 시작하세요. 그다음 예약, 열쇠 항목을 살펴보세요.\" 짝이 물었습니다. \"승강기 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "進行役は「フロントから始めて、次に予約と鍵を確認してください」と言いました。相手が「エレベーターはどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "\"Empieza con recepción\", dijo la persona responsable. \"Después revisa reserva y llave\". Alguien preguntó: \"¿Y ascensor?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "hotel-arrival-handover",
+    "title": [
+      "Hotel arrival · Action handover",
+      "호텔 도착 · 인수인계",
+      "ホテル到着 · 引き継ぎ",
+      "Llegada al hotel · Relevo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Handover: Hotel arrival. Completed: review of reception and booking. Next action: check key. Open question: who will update lift? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 인수인계: 호텔 도착. 완료: 프런트, 예약 검토. 다음 작업: 열쇠 확인. 남은 질문: 승강기 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 引き継ぎ：ホテル到着。完了：フロントと予約の検討。次の作業：鍵の確認。未解決の質問：エレベーターは誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Relevo: Llegada al hotel. Terminado: revisión de recepción y reserva. Siguiente paso: comprobar llave. Pregunta pendiente: ¿quién actualizará ascensor? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "text": [
+      "Handover: Hotel arrival. Completed: review of reception and booking. Next action: check key. Open question: who will update lift? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "인수인계: 호텔 도착. 완료: 프런트, 예약 검토. 다음 작업: 열쇠 확인. 남은 질문: 승강기 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "引き継ぎ：ホテル到着。完了：フロントと予約の検討。次の作業：鍵の確認。未解決の質問：エレベーターは誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Relevo: Llegada al hotel. Terminado: revisión de recepción y reserva. Siguiente paso: comprobar llave. Pregunta pendiente: ¿quién actualizará ascensor? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "cafe-shift-dialogue",
+    "title": [
+      "Cafe shift · Dialogue",
+      "카페 근무 · 대화문",
+      "カフェの仕事 · 会話文",
+      "Turno en cafetería · Diálogo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. A: Where should we record menu? B: Put it beside cup. A: Should we include table too? B: Yes, but check order first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 가: 메뉴 항목은 어디에 기록할까요? 나: 잔 옆에 적어 주세요. 가: 테이블 항목도 넣을까요? 나: 네, 먼저 주문 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 A：メニューはどこに記録しますか？ B：カップの隣に書きます。 A：テーブルも入れますか？ B：はい、先に注文を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. A: ¿Dónde anotamos menú? B: Junto a taza. A: ¿Incluimos también mesa? B: Sí, pero revisa primero pedido. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "text": [
+      "A: Where should we record menu? B: Put it beside cup. A: Should we include table too? B: Yes, but check order first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "가: 메뉴 항목은 어디에 기록할까요? 나: 잔 옆에 적어 주세요. 가: 테이블 항목도 넣을까요? 나: 네, 먼저 주문 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "A：メニューはどこに記録しますか？ B：カップの隣に書きます。 A：テーブルも入れますか？ B：はい、先に注文を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "A: ¿Dónde anotamos menú? B: Junto a taza. A: ¿Incluimos también mesa? B: Sí, pero revisa primero pedido. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "cafe-shift-activity-log",
+    "title": [
+      "Cafe shift · Activity log",
+      "카페 근무 · 활동 기록",
+      "カフェの仕事 · 活動記録",
+      "Turno en cafetería · Registro"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. 09:00 - Review: menu. 09:15 - Prepare: cup. 09:30 - Check: table. 09:45 - Record: order. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 09:00 - 검토: 메뉴. 09:15 - 준비: 잔. 09:30 - 확인: 테이블. 09:45 - 기록: 주문. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 09:00 - 検討：メニュー。09:15 - 準備：カップ。09:30 - 確認：テーブル。09:45 - 記録：注文。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. 09:00 - Revisar: menú. 09:15 - Preparar: taza. 09:30 - Comprobar: mesa. 09:45 - Anotar: pedido. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "text": [
+      "09:00 - Review: menu. 09:15 - Prepare: cup. 09:30 - Check: table. 09:45 - Record: order. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "09:00 - 검토: 메뉴. 09:15 - 준비: 잔. 09:30 - 확인: 테이블. 09:45 - 기록: 주문. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "09:00 - 検討：メニュー。09:15 - 準備：カップ。09:30 - 確認：テーブル。09:45 - 記録：注文。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "09:00 - Revisar: menú. 09:15 - Preparar: taza. 09:30 - Comprobar: mesa. 09:45 - Anotar: pedido. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "cafe-shift-inventory",
+    "title": [
+      "Cafe shift · Inventory",
+      "카페 근무 · 물품 기록",
+      "カフェの仕事 · 品目記録",
+      "Turno en cafetería · Inventario"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Record 01: menu (checked). Record 02: cup (pending). Record 03: table (checked). Record 04: order (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 기록 01: 메뉴 (확인). 기록 02: 잔 (대기). 기록 03: 테이블 (확인). 기록 04: 주문 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 記録01：メニュー（確認済み）。記録02：カップ（保留）。記録03：テーブル（確認済み）。記録04：注文（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Registro 01: menú (revisado). Registro 02: taza (pendiente). Registro 03: mesa (revisado). Registro 04: pedido (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "text": [
+      "Record 01: menu (checked). Record 02: cup (pending). Record 03: table (checked). Record 04: order (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "기록 01: 메뉴 (확인). 기록 02: 잔 (대기). 기록 03: 테이블 (확인). 기록 04: 주문 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "記録01：メニュー（確認済み）。記録02：カップ（保留）。記録03：テーブル（確認済み）。記録04：注文（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Registro 01: menú (revisado). Registro 02: taza (pendiente). Registro 03: mesa (revisado). Registro 04: pedido (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "cafe-shift-quoted-speech",
+    "title": [
+      "Cafe shift · Quoted speech",
+      "카페 근무 · 인용문",
+      "カフェの仕事 · 引用文",
+      "Turno en cafetería · Citas"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. \"Start with menu,\" the organizer said. \"Then review cup and table.\" A partner asked, \"What about order?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 진행자가 말했습니다. \"메뉴 항목부터 시작하세요. 그다음 잔, 테이블 항목을 살펴보세요.\" 짝이 물었습니다. \"주문 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 進行役は「メニューから始めて、次にカップとテーブルを確認してください」と言いました。相手が「注文はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. \"Empieza con menú\", dijo la persona responsable. \"Después revisa taza y mesa\". Alguien preguntó: \"¿Y pedido?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "text": [
+      "\"Start with menu,\" the organizer said. \"Then review cup and table.\" A partner asked, \"What about order?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "진행자가 말했습니다. \"메뉴 항목부터 시작하세요. 그다음 잔, 테이블 항목을 살펴보세요.\" 짝이 물었습니다. \"주문 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "進行役は「メニューから始めて、次にカップとテーブルを確認してください」と言いました。相手が「注文はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "\"Empieza con menú\", dijo la persona responsable. \"Después revisa taza y mesa\". Alguien preguntó: \"¿Y pedido?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "cafe-shift-handover",
+    "title": [
+      "Cafe shift · Action handover",
+      "카페 근무 · 인수인계",
+      "カフェの仕事 · 引き継ぎ",
+      "Turno en cafetería · Relevo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Handover: Cafe shift. Completed: review of menu and cup. Next action: check table. Open question: who will update order? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 인수인계: 카페 근무. 완료: 메뉴, 잔 검토. 다음 작업: 테이블 확인. 남은 질문: 주문 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 引き継ぎ：カフェの仕事。完了：メニューとカップの検討。次の作業：テーブルの確認。未解決の質問：注文は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Relevo: Turno en cafetería. Terminado: revisión de menú y taza. Siguiente paso: comprobar mesa. Pregunta pendiente: ¿quién actualizará pedido? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "text": [
+      "Handover: Cafe shift. Completed: review of menu and cup. Next action: check table. Open question: who will update order? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "인수인계: 카페 근무. 완료: 메뉴, 잔 검토. 다음 작업: 테이블 확인. 남은 질문: 주문 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "引き継ぎ：カフェの仕事。完了：メニューとカップの検討。次の作業：テーブルの確認。未解決の質問：注文は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Relevo: Turno en cafetería. Terminado: revisión de menú y taza. Siguiente paso: comprobar mesa. Pregunta pendiente: ¿quién actualizará pedido? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "repair-workshop-dialogue",
+    "title": [
+      "Repair workshop · Dialogue",
+      "수리 작업실 · 대화문",
+      "修理工房 · 会話文",
+      "Taller de reparación · Diálogo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. A: Where should we record tool? B: Put it beside bolt. A: Should we include hinge too? B: Yes, but check handle first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 가: 도구 항목은 어디에 기록할까요? 나: 볼트 옆에 적어 주세요. 가: 경첩 항목도 넣을까요? 나: 네, 먼저 손잡이 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 A：工具はどこに記録しますか？ B：ボルトの隣に書きます。 A：蝶番も入れますか？ B：はい、先に取っ手を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. A: ¿Dónde anotamos herramienta? B: Junto a perno. A: ¿Incluimos también bisagra? B: Sí, pero revisa primero asa. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "text": [
+      "A: Where should we record tool? B: Put it beside bolt. A: Should we include hinge too? B: Yes, but check handle first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "가: 도구 항목은 어디에 기록할까요? 나: 볼트 옆에 적어 주세요. 가: 경첩 항목도 넣을까요? 나: 네, 먼저 손잡이 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "A：工具はどこに記録しますか？ B：ボルトの隣に書きます。 A：蝶番も入れますか？ B：はい、先に取っ手を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "A: ¿Dónde anotamos herramienta? B: Junto a perno. A: ¿Incluimos también bisagra? B: Sí, pero revisa primero asa. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "repair-workshop-activity-log",
+    "title": [
+      "Repair workshop · Activity log",
+      "수리 작업실 · 활동 기록",
+      "修理工房 · 活動記録",
+      "Taller de reparación · Registro"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. 09:00 - Review: tool. 09:15 - Prepare: bolt. 09:30 - Check: hinge. 09:45 - Record: handle. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 09:00 - 검토: 도구. 09:15 - 준비: 볼트. 09:30 - 확인: 경첩. 09:45 - 기록: 손잡이. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 09:00 - 検討：工具。09:15 - 準備：ボルト。09:30 - 確認：蝶番。09:45 - 記録：取っ手。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. 09:00 - Revisar: herramienta. 09:15 - Preparar: perno. 09:30 - Comprobar: bisagra. 09:45 - Anotar: asa. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "text": [
+      "09:00 - Review: tool. 09:15 - Prepare: bolt. 09:30 - Check: hinge. 09:45 - Record: handle. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "09:00 - 검토: 도구. 09:15 - 준비: 볼트. 09:30 - 확인: 경첩. 09:45 - 기록: 손잡이. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "09:00 - 検討：工具。09:15 - 準備：ボルト。09:30 - 確認：蝶番。09:45 - 記録：取っ手。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "09:00 - Revisar: herramienta. 09:15 - Preparar: perno. 09:30 - Comprobar: bisagra. 09:45 - Anotar: asa. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "repair-workshop-inventory",
+    "title": [
+      "Repair workshop · Inventory",
+      "수리 작업실 · 물품 기록",
+      "修理工房 · 品目記録",
+      "Taller de reparación · Inventario"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Record 01: tool (checked). Record 02: bolt (pending). Record 03: hinge (checked). Record 04: handle (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 기록 01: 도구 (확인). 기록 02: 볼트 (대기). 기록 03: 경첩 (확인). 기록 04: 손잡이 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 記録01：工具（確認済み）。記録02：ボルト（保留）。記録03：蝶番（確認済み）。記録04：取っ手（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Registro 01: herramienta (revisado). Registro 02: perno (pendiente). Registro 03: bisagra (revisado). Registro 04: asa (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "text": [
+      "Record 01: tool (checked). Record 02: bolt (pending). Record 03: hinge (checked). Record 04: handle (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "기록 01: 도구 (확인). 기록 02: 볼트 (대기). 기록 03: 경첩 (확인). 기록 04: 손잡이 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "記録01：工具（確認済み）。記録02：ボルト（保留）。記録03：蝶番（確認済み）。記録04：取っ手（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Registro 01: herramienta (revisado). Registro 02: perno (pendiente). Registro 03: bisagra (revisado). Registro 04: asa (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "repair-workshop-quoted-speech",
+    "title": [
+      "Repair workshop · Quoted speech",
+      "수리 작업실 · 인용문",
+      "修理工房 · 引用文",
+      "Taller de reparación · Citas"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. \"Start with tool,\" the organizer said. \"Then review bolt and hinge.\" A partner asked, \"What about handle?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 진행자가 말했습니다. \"도구 항목부터 시작하세요. 그다음 볼트, 경첩 항목을 살펴보세요.\" 짝이 물었습니다. \"손잡이 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 進行役は「工具から始めて、次にボルトと蝶番を確認してください」と言いました。相手が「取っ手はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. \"Empieza con herramienta\", dijo la persona responsable. \"Después revisa perno y bisagra\". Alguien preguntó: \"¿Y asa?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "text": [
+      "\"Start with tool,\" the organizer said. \"Then review bolt and hinge.\" A partner asked, \"What about handle?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "진행자가 말했습니다. \"도구 항목부터 시작하세요. 그다음 볼트, 경첩 항목을 살펴보세요.\" 짝이 물었습니다. \"손잡이 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "進行役は「工具から始めて、次にボルトと蝶番を確認してください」と言いました。相手が「取っ手はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "\"Empieza con herramienta\", dijo la persona responsable. \"Después revisa perno y bisagra\". Alguien preguntó: \"¿Y asa?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "repair-workshop-handover",
+    "title": [
+      "Repair workshop · Action handover",
+      "수리 작업실 · 인수인계",
+      "修理工房 · 引き継ぎ",
+      "Taller de reparación · Relevo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Handover: Repair workshop. Completed: review of tool and bolt. Next action: check hinge. Open question: who will update handle? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 인수인계: 수리 작업실. 완료: 도구, 볼트 검토. 다음 작업: 경첩 확인. 남은 질문: 손잡이 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 引き継ぎ：修理工房。完了：工具とボルトの検討。次の作業：蝶番の確認。未解決の質問：取っ手は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Relevo: Taller de reparación. Terminado: revisión de herramienta y perno. Siguiente paso: comprobar bisagra. Pregunta pendiente: ¿quién actualizará asa? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "text": [
+      "Handover: Repair workshop. Completed: review of tool and bolt. Next action: check hinge. Open question: who will update handle? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "인수인계: 수리 작업실. 완료: 도구, 볼트 검토. 다음 작업: 경첩 확인. 남은 질문: 손잡이 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "引き継ぎ：修理工房。完了：工具とボルトの検討。次の作業：蝶番の確認。未解決の質問：取っ手は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Relevo: Taller de reparación. Terminado: revisión de herramienta y perno. Siguiente paso: comprobar bisagra. Pregunta pendiente: ¿quién actualizará asa? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "photo-walk-dialogue",
+    "title": [
+      "Photo walk · Dialogue",
+      "사진 산책 · 대화문",
+      "写真散歩 · 会話文",
+      "Paseo fotográfico · Diálogo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. A: Where should we record shadow? B: Put it beside frame. A: Should we include light too? B: Yes, but check angle first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 가: 그림자 항목은 어디에 기록할까요? 나: 구도 옆에 적어 주세요. 가: 빛 항목도 넣을까요? 나: 네, 먼저 각도 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 A：影はどこに記録しますか？ B：構図の隣に書きます。 A：光も入れますか？ B：はい、先に角度を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. A: ¿Dónde anotamos sombra? B: Junto a encuadre. A: ¿Incluimos también luz? B: Sí, pero revisa primero ángulo. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "text": [
+      "A: Where should we record shadow? B: Put it beside frame. A: Should we include light too? B: Yes, but check angle first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "가: 그림자 항목은 어디에 기록할까요? 나: 구도 옆에 적어 주세요. 가: 빛 항목도 넣을까요? 나: 네, 먼저 각도 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "A：影はどこに記録しますか？ B：構図の隣に書きます。 A：光も入れますか？ B：はい、先に角度を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "A: ¿Dónde anotamos sombra? B: Junto a encuadre. A: ¿Incluimos también luz? B: Sí, pero revisa primero ángulo. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "photo-walk-activity-log",
+    "title": [
+      "Photo walk · Activity log",
+      "사진 산책 · 활동 기록",
+      "写真散歩 · 活動記録",
+      "Paseo fotográfico · Registro"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. 09:00 - Review: shadow. 09:15 - Prepare: frame. 09:30 - Check: light. 09:45 - Record: angle. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 09:00 - 검토: 그림자. 09:15 - 준비: 구도. 09:30 - 확인: 빛. 09:45 - 기록: 각도. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 09:00 - 検討：影。09:15 - 準備：構図。09:30 - 確認：光。09:45 - 記録：角度。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. 09:00 - Revisar: sombra. 09:15 - Preparar: encuadre. 09:30 - Comprobar: luz. 09:45 - Anotar: ángulo. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "text": [
+      "09:00 - Review: shadow. 09:15 - Prepare: frame. 09:30 - Check: light. 09:45 - Record: angle. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "09:00 - 검토: 그림자. 09:15 - 준비: 구도. 09:30 - 확인: 빛. 09:45 - 기록: 각도. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "09:00 - 検討：影。09:15 - 準備：構図。09:30 - 確認：光。09:45 - 記録：角度。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "09:00 - Revisar: sombra. 09:15 - Preparar: encuadre. 09:30 - Comprobar: luz. 09:45 - Anotar: ángulo. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "photo-walk-inventory",
+    "title": [
+      "Photo walk · Inventory",
+      "사진 산책 · 물품 기록",
+      "写真散歩 · 品目記録",
+      "Paseo fotográfico · Inventario"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Record 01: shadow (checked). Record 02: frame (pending). Record 03: light (checked). Record 04: angle (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 기록 01: 그림자 (확인). 기록 02: 구도 (대기). 기록 03: 빛 (확인). 기록 04: 각도 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 記録01：影（確認済み）。記録02：構図（保留）。記録03：光（確認済み）。記録04：角度（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Registro 01: sombra (revisado). Registro 02: encuadre (pendiente). Registro 03: luz (revisado). Registro 04: ángulo (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "text": [
+      "Record 01: shadow (checked). Record 02: frame (pending). Record 03: light (checked). Record 04: angle (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "기록 01: 그림자 (확인). 기록 02: 구도 (대기). 기록 03: 빛 (확인). 기록 04: 각도 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "記録01：影（確認済み）。記録02：構図（保留）。記録03：光（確認済み）。記録04：角度（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Registro 01: sombra (revisado). Registro 02: encuadre (pendiente). Registro 03: luz (revisado). Registro 04: ángulo (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "photo-walk-quoted-speech",
+    "title": [
+      "Photo walk · Quoted speech",
+      "사진 산책 · 인용문",
+      "写真散歩 · 引用文",
+      "Paseo fotográfico · Citas"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. \"Start with shadow,\" the organizer said. \"Then review frame and light.\" A partner asked, \"What about angle?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 진행자가 말했습니다. \"그림자 항목부터 시작하세요. 그다음 구도, 빛 항목을 살펴보세요.\" 짝이 물었습니다. \"각도 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 進行役は「影から始めて、次に構図と光を確認してください」と言いました。相手が「角度はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. \"Empieza con sombra\", dijo la persona responsable. \"Después revisa encuadre y luz\". Alguien preguntó: \"¿Y ángulo?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "text": [
+      "\"Start with shadow,\" the organizer said. \"Then review frame and light.\" A partner asked, \"What about angle?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "진행자가 말했습니다. \"그림자 항목부터 시작하세요. 그다음 구도, 빛 항목을 살펴보세요.\" 짝이 물었습니다. \"각도 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "進行役は「影から始めて、次に構図と光を確認してください」と言いました。相手が「角度はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "\"Empieza con sombra\", dijo la persona responsable. \"Después revisa encuadre y luz\". Alguien preguntó: \"¿Y ángulo?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "photo-walk-handover",
+    "title": [
+      "Photo walk · Action handover",
+      "사진 산책 · 인수인계",
+      "写真散歩 · 引き継ぎ",
+      "Paseo fotográfico · Relevo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Handover: Photo walk. Completed: review of shadow and frame. Next action: check light. Open question: who will update angle? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 인수인계: 사진 산책. 완료: 그림자, 구도 검토. 다음 작업: 빛 확인. 남은 질문: 각도 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 引き継ぎ：写真散歩。完了：影と構図の検討。次の作業：光の確認。未解決の質問：角度は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Relevo: Paseo fotográfico. Terminado: revisión de sombra y encuadre. Siguiente paso: comprobar luz. Pregunta pendiente: ¿quién actualizará ángulo? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "text": [
+      "Handover: Photo walk. Completed: review of shadow and frame. Next action: check light. Open question: who will update angle? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "인수인계: 사진 산책. 완료: 그림자, 구도 검토. 다음 작업: 빛 확인. 남은 질문: 각도 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "引き継ぎ：写真散歩。完了：影と構図の検討。次の作業：光の確認。未解決の質問：角度は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Relevo: Paseo fotográfico. Terminado: revisión de sombra y encuadre. Siguiente paso: comprobar luz. Pregunta pendiente: ¿quién actualizará ángulo? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "reading-circle-dialogue",
+    "title": [
+      "Reading circle · Dialogue",
+      "독서 모임 · 대화문",
+      "読書会 · 会話文",
+      "Círculo de lectura · Diálogo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. A: Where should we record chapter? B: Put it beside character. A: Should we include setting too? B: Yes, but check conflict first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 가: 장 항목은 어디에 기록할까요? 나: 등장인물 옆에 적어 주세요. 가: 배경 항목도 넣을까요? 나: 네, 먼저 갈등 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 A：章はどこに記録しますか？ B：登場人物の隣に書きます。 A：舞台も入れますか？ B：はい、先に対立を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. A: ¿Dónde anotamos capítulo? B: Junto a personaje. A: ¿Incluimos también escenario? B: Sí, pero revisa primero conflicto. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "text": [
+      "A: Where should we record chapter? B: Put it beside character. A: Should we include setting too? B: Yes, but check conflict first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "가: 장 항목은 어디에 기록할까요? 나: 등장인물 옆에 적어 주세요. 가: 배경 항목도 넣을까요? 나: 네, 먼저 갈등 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "A：章はどこに記録しますか？ B：登場人物の隣に書きます。 A：舞台も入れますか？ B：はい、先に対立を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "A: ¿Dónde anotamos capítulo? B: Junto a personaje. A: ¿Incluimos también escenario? B: Sí, pero revisa primero conflicto. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "reading-circle-activity-log",
+    "title": [
+      "Reading circle · Activity log",
+      "독서 모임 · 활동 기록",
+      "読書会 · 活動記録",
+      "Círculo de lectura · Registro"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. 09:00 - Review: chapter. 09:15 - Prepare: character. 09:30 - Check: setting. 09:45 - Record: conflict. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 09:00 - 검토: 장. 09:15 - 준비: 등장인물. 09:30 - 확인: 배경. 09:45 - 기록: 갈등. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 09:00 - 検討：章。09:15 - 準備：登場人物。09:30 - 確認：舞台。09:45 - 記録：対立。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. 09:00 - Revisar: capítulo. 09:15 - Preparar: personaje. 09:30 - Comprobar: escenario. 09:45 - Anotar: conflicto. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "text": [
+      "09:00 - Review: chapter. 09:15 - Prepare: character. 09:30 - Check: setting. 09:45 - Record: conflict. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "09:00 - 검토: 장. 09:15 - 준비: 등장인물. 09:30 - 확인: 배경. 09:45 - 기록: 갈등. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "09:00 - 検討：章。09:15 - 準備：登場人物。09:30 - 確認：舞台。09:45 - 記録：対立。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "09:00 - Revisar: capítulo. 09:15 - Preparar: personaje. 09:30 - Comprobar: escenario. 09:45 - Anotar: conflicto. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "reading-circle-inventory",
+    "title": [
+      "Reading circle · Inventory",
+      "독서 모임 · 물품 기록",
+      "読書会 · 品目記録",
+      "Círculo de lectura · Inventario"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Record 01: chapter (checked). Record 02: character (pending). Record 03: setting (checked). Record 04: conflict (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 기록 01: 장 (확인). 기록 02: 등장인물 (대기). 기록 03: 배경 (확인). 기록 04: 갈등 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 記録01：章（確認済み）。記録02：登場人物（保留）。記録03：舞台（確認済み）。記録04：対立（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Registro 01: capítulo (revisado). Registro 02: personaje (pendiente). Registro 03: escenario (revisado). Registro 04: conflicto (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "text": [
+      "Record 01: chapter (checked). Record 02: character (pending). Record 03: setting (checked). Record 04: conflict (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "기록 01: 장 (확인). 기록 02: 등장인물 (대기). 기록 03: 배경 (확인). 기록 04: 갈등 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "記録01：章（確認済み）。記録02：登場人物（保留）。記録03：舞台（確認済み）。記録04：対立（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Registro 01: capítulo (revisado). Registro 02: personaje (pendiente). Registro 03: escenario (revisado). Registro 04: conflicto (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "reading-circle-quoted-speech",
+    "title": [
+      "Reading circle · Quoted speech",
+      "독서 모임 · 인용문",
+      "読書会 · 引用文",
+      "Círculo de lectura · Citas"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. \"Start with chapter,\" the organizer said. \"Then review character and setting.\" A partner asked, \"What about conflict?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 진행자가 말했습니다. \"장 항목부터 시작하세요. 그다음 등장인물, 배경 항목을 살펴보세요.\" 짝이 물었습니다. \"갈등 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 進行役は「章から始めて、次に登場人物と舞台を確認してください」と言いました。相手が「対立はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. \"Empieza con capítulo\", dijo la persona responsable. \"Después revisa personaje y escenario\". Alguien preguntó: \"¿Y conflicto?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "text": [
+      "\"Start with chapter,\" the organizer said. \"Then review character and setting.\" A partner asked, \"What about conflict?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "진행자가 말했습니다. \"장 항목부터 시작하세요. 그다음 등장인물, 배경 항목을 살펴보세요.\" 짝이 물었습니다. \"갈등 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "進行役は「章から始めて、次に登場人物と舞台を確認してください」と言いました。相手が「対立はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "\"Empieza con capítulo\", dijo la persona responsable. \"Después revisa personaje y escenario\". Alguien preguntó: \"¿Y conflicto?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "reading-circle-handover",
+    "title": [
+      "Reading circle · Action handover",
+      "독서 모임 · 인수인계",
+      "読書会 · 引き継ぎ",
+      "Círculo de lectura · Relevo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Handover: Reading circle. Completed: review of chapter and character. Next action: check setting. Open question: who will update conflict? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 인수인계: 독서 모임. 완료: 장, 등장인물 검토. 다음 작업: 배경 확인. 남은 질문: 갈등 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 引き継ぎ：読書会。完了：章と登場人物の検討。次の作業：舞台の確認。未解決の質問：対立は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Relevo: Círculo de lectura. Terminado: revisión de capítulo y personaje. Siguiente paso: comprobar escenario. Pregunta pendiente: ¿quién actualizará conflicto? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "text": [
+      "Handover: Reading circle. Completed: review of chapter and character. Next action: check setting. Open question: who will update conflict? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "인수인계: 독서 모임. 완료: 장, 등장인물 검토. 다음 작업: 배경 확인. 남은 질문: 갈등 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "引き継ぎ：読書会。完了：章と登場人物の検討。次の作業：舞台の確認。未解決の質問：対立は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Relevo: Círculo de lectura. Terminado: revisión de capítulo y personaje. Siguiente paso: comprobar escenario. Pregunta pendiente: ¿quién actualizará conflicto? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "podcast-studio-dialogue",
+    "title": [
+      "Podcast studio · Dialogue",
+      "팟캐스트 녹음 · 대화문",
+      "ポッドキャスト収録 · 会話文",
+      "Estudio de pódcast · Diálogo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. A: Where should we record microphone? B: Put it beside intro. A: Should we include guest too? B: Yes, but check question first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 가: 마이크 항목은 어디에 기록할까요? 나: 도입 옆에 적어 주세요. 가: 게스트 항목도 넣을까요? 나: 네, 먼저 질문 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 A：マイクはどこに記録しますか？ B：導入の隣に書きます。 A：ゲストも入れますか？ B：はい、先に質問を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. A: ¿Dónde anotamos micrófono? B: Junto a introducción. A: ¿Incluimos también invitado? B: Sí, pero revisa primero pregunta. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "text": [
+      "A: Where should we record microphone? B: Put it beside intro. A: Should we include guest too? B: Yes, but check question first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "가: 마이크 항목은 어디에 기록할까요? 나: 도입 옆에 적어 주세요. 가: 게스트 항목도 넣을까요? 나: 네, 먼저 질문 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "A：マイクはどこに記録しますか？ B：導入の隣に書きます。 A：ゲストも入れますか？ B：はい、先に質問を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "A: ¿Dónde anotamos micrófono? B: Junto a introducción. A: ¿Incluimos también invitado? B: Sí, pero revisa primero pregunta. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "podcast-studio-activity-log",
+    "title": [
+      "Podcast studio · Activity log",
+      "팟캐스트 녹음 · 활동 기록",
+      "ポッドキャスト収録 · 活動記録",
+      "Estudio de pódcast · Registro"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. 09:00 - Review: microphone. 09:15 - Prepare: intro. 09:30 - Check: guest. 09:45 - Record: question. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 09:00 - 검토: 마이크. 09:15 - 준비: 도입. 09:30 - 확인: 게스트. 09:45 - 기록: 질문. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 09:00 - 検討：マイク。09:15 - 準備：導入。09:30 - 確認：ゲスト。09:45 - 記録：質問。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. 09:00 - Revisar: micrófono. 09:15 - Preparar: introducción. 09:30 - Comprobar: invitado. 09:45 - Anotar: pregunta. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "text": [
+      "09:00 - Review: microphone. 09:15 - Prepare: intro. 09:30 - Check: guest. 09:45 - Record: question. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "09:00 - 검토: 마이크. 09:15 - 준비: 도입. 09:30 - 확인: 게스트. 09:45 - 기록: 질문. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "09:00 - 検討：マイク。09:15 - 準備：導入。09:30 - 確認：ゲスト。09:45 - 記録：質問。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "09:00 - Revisar: micrófono. 09:15 - Preparar: introducción. 09:30 - Comprobar: invitado. 09:45 - Anotar: pregunta. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "podcast-studio-inventory",
+    "title": [
+      "Podcast studio · Inventory",
+      "팟캐스트 녹음 · 물품 기록",
+      "ポッドキャスト収録 · 品目記録",
+      "Estudio de pódcast · Inventario"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Record 01: microphone (checked). Record 02: intro (pending). Record 03: guest (checked). Record 04: question (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 기록 01: 마이크 (확인). 기록 02: 도입 (대기). 기록 03: 게스트 (확인). 기록 04: 질문 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 記録01：マイク（確認済み）。記録02：導入（保留）。記録03：ゲスト（確認済み）。記録04：質問（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Registro 01: micrófono (revisado). Registro 02: introducción (pendiente). Registro 03: invitado (revisado). Registro 04: pregunta (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "text": [
+      "Record 01: microphone (checked). Record 02: intro (pending). Record 03: guest (checked). Record 04: question (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "기록 01: 마이크 (확인). 기록 02: 도입 (대기). 기록 03: 게스트 (확인). 기록 04: 질문 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "記録01：マイク（確認済み）。記録02：導入（保留）。記録03：ゲスト（確認済み）。記録04：質問（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Registro 01: micrófono (revisado). Registro 02: introducción (pendiente). Registro 03: invitado (revisado). Registro 04: pregunta (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "podcast-studio-quoted-speech",
+    "title": [
+      "Podcast studio · Quoted speech",
+      "팟캐스트 녹음 · 인용문",
+      "ポッドキャスト収録 · 引用文",
+      "Estudio de pódcast · Citas"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. \"Start with microphone,\" the organizer said. \"Then review intro and guest.\" A partner asked, \"What about question?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 진행자가 말했습니다. \"마이크 항목부터 시작하세요. 그다음 도입, 게스트 항목을 살펴보세요.\" 짝이 물었습니다. \"질문 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 進行役は「マイクから始めて、次に導入とゲストを確認してください」と言いました。相手が「質問はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. \"Empieza con micrófono\", dijo la persona responsable. \"Después revisa introducción y invitado\". Alguien preguntó: \"¿Y pregunta?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "text": [
+      "\"Start with microphone,\" the organizer said. \"Then review intro and guest.\" A partner asked, \"What about question?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "진행자가 말했습니다. \"마이크 항목부터 시작하세요. 그다음 도입, 게스트 항목을 살펴보세요.\" 짝이 물었습니다. \"질문 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "進行役は「マイクから始めて、次に導入とゲストを確認してください」と言いました。相手が「質問はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "\"Empieza con micrófono\", dijo la persona responsable. \"Después revisa introducción y invitado\". Alguien preguntó: \"¿Y pregunta?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "podcast-studio-handover",
+    "title": [
+      "Podcast studio · Action handover",
+      "팟캐스트 녹음 · 인수인계",
+      "ポッドキャスト収録 · 引き継ぎ",
+      "Estudio de pódcast · Relevo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Handover: Podcast studio. Completed: review of microphone and intro. Next action: check guest. Open question: who will update question? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 인수인계: 팟캐스트 녹음. 완료: 마이크, 도입 검토. 다음 작업: 게스트 확인. 남은 질문: 질문 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 引き継ぎ：ポッドキャスト収録。完了：マイクと導入の検討。次の作業：ゲストの確認。未解決の質問：質問は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Relevo: Estudio de pódcast. Terminado: revisión de micrófono y introducción. Siguiente paso: comprobar invitado. Pregunta pendiente: ¿quién actualizará pregunta? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "text": [
+      "Handover: Podcast studio. Completed: review of microphone and intro. Next action: check guest. Open question: who will update question? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "인수인계: 팟캐스트 녹음. 완료: 마이크, 도입 검토. 다음 작업: 게스트 확인. 남은 질문: 질문 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "引き継ぎ：ポッドキャスト収録。完了：マイクと導入の検討。次の作業：ゲストの確認。未解決の質問：質問は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Relevo: Estudio de pódcast. Terminado: revisión de micrófono y introducción. Siguiente paso: comprobar invitado. Pregunta pendiente: ¿quién actualizará pregunta? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "seed-observation-dialogue",
+    "title": [
+      "Seed observation · Dialogue",
+      "씨앗 관찰 · 대화문",
+      "種の観察 · 会話文",
+      "Observación de semillas · Diálogo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. A: Where should we record seed? B: Put it beside soil. A: Should we include pot too? B: Yes, but check water first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 가: 씨앗 항목은 어디에 기록할까요? 나: 흙 옆에 적어 주세요. 가: 화분 항목도 넣을까요? 나: 네, 먼저 물 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 A：種はどこに記録しますか？ B：土の隣に書きます。 A：鉢も入れますか？ B：はい、先に水を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. A: ¿Dónde anotamos semilla? B: Junto a tierra. A: ¿Incluimos también maceta? B: Sí, pero revisa primero agua. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "text": [
+      "A: Where should we record seed? B: Put it beside soil. A: Should we include pot too? B: Yes, but check water first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "가: 씨앗 항목은 어디에 기록할까요? 나: 흙 옆에 적어 주세요. 가: 화분 항목도 넣을까요? 나: 네, 먼저 물 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "A：種はどこに記録しますか？ B：土の隣に書きます。 A：鉢も入れますか？ B：はい、先に水を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "A: ¿Dónde anotamos semilla? B: Junto a tierra. A: ¿Incluimos también maceta? B: Sí, pero revisa primero agua. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "seed-observation-activity-log",
+    "title": [
+      "Seed observation · Activity log",
+      "씨앗 관찰 · 활동 기록",
+      "種の観察 · 活動記録",
+      "Observación de semillas · Registro"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. 09:00 - Review: seed. 09:15 - Prepare: soil. 09:30 - Check: pot. 09:45 - Record: water. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 09:00 - 검토: 씨앗. 09:15 - 준비: 흙. 09:30 - 확인: 화분. 09:45 - 기록: 물. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 09:00 - 検討：種。09:15 - 準備：土。09:30 - 確認：鉢。09:45 - 記録：水。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. 09:00 - Revisar: semilla. 09:15 - Preparar: tierra. 09:30 - Comprobar: maceta. 09:45 - Anotar: agua. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "text": [
+      "09:00 - Review: seed. 09:15 - Prepare: soil. 09:30 - Check: pot. 09:45 - Record: water. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "09:00 - 검토: 씨앗. 09:15 - 준비: 흙. 09:30 - 확인: 화분. 09:45 - 기록: 물. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "09:00 - 検討：種。09:15 - 準備：土。09:30 - 確認：鉢。09:45 - 記録：水。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "09:00 - Revisar: semilla. 09:15 - Preparar: tierra. 09:30 - Comprobar: maceta. 09:45 - Anotar: agua. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "seed-observation-inventory",
+    "title": [
+      "Seed observation · Inventory",
+      "씨앗 관찰 · 물품 기록",
+      "種の観察 · 品目記録",
+      "Observación de semillas · Inventario"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Record 01: seed (checked). Record 02: soil (pending). Record 03: pot (checked). Record 04: water (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 기록 01: 씨앗 (확인). 기록 02: 흙 (대기). 기록 03: 화분 (확인). 기록 04: 물 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 記録01：種（確認済み）。記録02：土（保留）。記録03：鉢（確認済み）。記録04：水（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Registro 01: semilla (revisado). Registro 02: tierra (pendiente). Registro 03: maceta (revisado). Registro 04: agua (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "text": [
+      "Record 01: seed (checked). Record 02: soil (pending). Record 03: pot (checked). Record 04: water (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "기록 01: 씨앗 (확인). 기록 02: 흙 (대기). 기록 03: 화분 (확인). 기록 04: 물 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "記録01：種（確認済み）。記録02：土（保留）。記録03：鉢（確認済み）。記録04：水（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Registro 01: semilla (revisado). Registro 02: tierra (pendiente). Registro 03: maceta (revisado). Registro 04: agua (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "seed-observation-quoted-speech",
+    "title": [
+      "Seed observation · Quoted speech",
+      "씨앗 관찰 · 인용문",
+      "種の観察 · 引用文",
+      "Observación de semillas · Citas"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. \"Start with seed,\" the organizer said. \"Then review soil and pot.\" A partner asked, \"What about water?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 진행자가 말했습니다. \"씨앗 항목부터 시작하세요. 그다음 흙, 화분 항목을 살펴보세요.\" 짝이 물었습니다. \"물 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 進行役は「種から始めて、次に土と鉢を確認してください」と言いました。相手が「水はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. \"Empieza con semilla\", dijo la persona responsable. \"Después revisa tierra y maceta\". Alguien preguntó: \"¿Y agua?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "text": [
+      "\"Start with seed,\" the organizer said. \"Then review soil and pot.\" A partner asked, \"What about water?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "진행자가 말했습니다. \"씨앗 항목부터 시작하세요. 그다음 흙, 화분 항목을 살펴보세요.\" 짝이 물었습니다. \"물 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "進行役は「種から始めて、次に土と鉢を確認してください」と言いました。相手が「水はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "\"Empieza con semilla\", dijo la persona responsable. \"Después revisa tierra y maceta\". Alguien preguntó: \"¿Y agua?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "seed-observation-handover",
+    "title": [
+      "Seed observation · Action handover",
+      "씨앗 관찰 · 인수인계",
+      "種の観察 · 引き継ぎ",
+      "Observación de semillas · Relevo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Handover: Seed observation. Completed: review of seed and soil. Next action: check pot. Open question: who will update water? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 인수인계: 씨앗 관찰. 완료: 씨앗, 흙 검토. 다음 작업: 화분 확인. 남은 질문: 물 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 引き継ぎ：種の観察。完了：種と土の検討。次の作業：鉢の確認。未解決の質問：水は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Relevo: Observación de semillas. Terminado: revisión de semilla y tierra. Siguiente paso: comprobar maceta. Pregunta pendiente: ¿quién actualizará agua? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "text": [
+      "Handover: Seed observation. Completed: review of seed and soil. Next action: check pot. Open question: who will update water? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "인수인계: 씨앗 관찰. 완료: 씨앗, 흙 검토. 다음 작업: 화분 확인. 남은 질문: 물 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "引き継ぎ：種の観察。完了：種と土の検討。次の作業：鉢の確認。未解決の質問：水は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Relevo: Observación de semillas. Terminado: revisión de semilla y tierra. Siguiente paso: comprobar maceta. Pregunta pendiente: ¿quién actualizará agua? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "robotics-club-dialogue",
+    "title": [
+      "Robotics club · Dialogue",
+      "로봇 동아리 · 대화문",
+      "ロボットクラブ · 会話文",
+      "Club de robótica · Diálogo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. A: Where should we record sensor? B: Put it beside motor. A: Should we include wheel too? B: Yes, but check cable first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 가: 센서 항목은 어디에 기록할까요? 나: 모터 옆에 적어 주세요. 가: 바퀴 항목도 넣을까요? 나: 네, 먼저 케이블 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 A：センサーはどこに記録しますか？ B：モーターの隣に書きます。 A：車輪も入れますか？ B：はい、先にケーブルを確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. A: ¿Dónde anotamos sensor? B: Junto a motor. A: ¿Incluimos también rueda? B: Sí, pero revisa primero cable. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "text": [
+      "A: Where should we record sensor? B: Put it beside motor. A: Should we include wheel too? B: Yes, but check cable first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "가: 센서 항목은 어디에 기록할까요? 나: 모터 옆에 적어 주세요. 가: 바퀴 항목도 넣을까요? 나: 네, 먼저 케이블 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "A：センサーはどこに記録しますか？ B：モーターの隣に書きます。 A：車輪も入れますか？ B：はい、先にケーブルを確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "A: ¿Dónde anotamos sensor? B: Junto a motor. A: ¿Incluimos también rueda? B: Sí, pero revisa primero cable. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "robotics-club-activity-log",
+    "title": [
+      "Robotics club · Activity log",
+      "로봇 동아리 · 활동 기록",
+      "ロボットクラブ · 活動記録",
+      "Club de robótica · Registro"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. 09:00 - Review: sensor. 09:15 - Prepare: motor. 09:30 - Check: wheel. 09:45 - Record: cable. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 09:00 - 검토: 센서. 09:15 - 준비: 모터. 09:30 - 확인: 바퀴. 09:45 - 기록: 케이블. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 09:00 - 検討：センサー。09:15 - 準備：モーター。09:30 - 確認：車輪。09:45 - 記録：ケーブル。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. 09:00 - Revisar: sensor. 09:15 - Preparar: motor. 09:30 - Comprobar: rueda. 09:45 - Anotar: cable. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "text": [
+      "09:00 - Review: sensor. 09:15 - Prepare: motor. 09:30 - Check: wheel. 09:45 - Record: cable. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "09:00 - 검토: 센서. 09:15 - 준비: 모터. 09:30 - 확인: 바퀴. 09:45 - 기록: 케이블. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "09:00 - 検討：センサー。09:15 - 準備：モーター。09:30 - 確認：車輪。09:45 - 記録：ケーブル。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "09:00 - Revisar: sensor. 09:15 - Preparar: motor. 09:30 - Comprobar: rueda. 09:45 - Anotar: cable. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "robotics-club-inventory",
+    "title": [
+      "Robotics club · Inventory",
+      "로봇 동아리 · 물품 기록",
+      "ロボットクラブ · 品目記録",
+      "Club de robótica · Inventario"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Record 01: sensor (checked). Record 02: motor (pending). Record 03: wheel (checked). Record 04: cable (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 기록 01: 센서 (확인). 기록 02: 모터 (대기). 기록 03: 바퀴 (확인). 기록 04: 케이블 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 記録01：センサー（確認済み）。記録02：モーター（保留）。記録03：車輪（確認済み）。記録04：ケーブル（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Registro 01: sensor (revisado). Registro 02: motor (pendiente). Registro 03: rueda (revisado). Registro 04: cable (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "text": [
+      "Record 01: sensor (checked). Record 02: motor (pending). Record 03: wheel (checked). Record 04: cable (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "기록 01: 센서 (확인). 기록 02: 모터 (대기). 기록 03: 바퀴 (확인). 기록 04: 케이블 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "記録01：センサー（確認済み）。記録02：モーター（保留）。記録03：車輪（確認済み）。記録04：ケーブル（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Registro 01: sensor (revisado). Registro 02: motor (pendiente). Registro 03: rueda (revisado). Registro 04: cable (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "robotics-club-quoted-speech",
+    "title": [
+      "Robotics club · Quoted speech",
+      "로봇 동아리 · 인용문",
+      "ロボットクラブ · 引用文",
+      "Club de robótica · Citas"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. \"Start with sensor,\" the organizer said. \"Then review motor and wheel.\" A partner asked, \"What about cable?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 진행자가 말했습니다. \"센서 항목부터 시작하세요. 그다음 모터, 바퀴 항목을 살펴보세요.\" 짝이 물었습니다. \"케이블 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 進行役は「センサーから始めて、次にモーターと車輪を確認してください」と言いました。相手が「ケーブルはどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. \"Empieza con sensor\", dijo la persona responsable. \"Después revisa motor y rueda\". Alguien preguntó: \"¿Y cable?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "text": [
+      "\"Start with sensor,\" the organizer said. \"Then review motor and wheel.\" A partner asked, \"What about cable?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "진행자가 말했습니다. \"센서 항목부터 시작하세요. 그다음 모터, 바퀴 항목을 살펴보세요.\" 짝이 물었습니다. \"케이블 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "進行役は「センサーから始めて、次にモーターと車輪を確認してください」と言いました。相手が「ケーブルはどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "\"Empieza con sensor\", dijo la persona responsable. \"Después revisa motor y rueda\". Alguien preguntó: \"¿Y cable?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "robotics-club-handover",
+    "title": [
+      "Robotics club · Action handover",
+      "로봇 동아리 · 인수인계",
+      "ロボットクラブ · 引き継ぎ",
+      "Club de robótica · Relevo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Handover: Robotics club. Completed: review of sensor and motor. Next action: check wheel. Open question: who will update cable? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 인수인계: 로봇 동아리. 완료: 센서, 모터 검토. 다음 작업: 바퀴 확인. 남은 질문: 케이블 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 引き継ぎ：ロボットクラブ。完了：センサーとモーターの検討。次の作業：車輪の確認。未解決の質問：ケーブルは誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Relevo: Club de robótica. Terminado: revisión de sensor y motor. Siguiente paso: comprobar rueda. Pregunta pendiente: ¿quién actualizará cable? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "text": [
+      "Handover: Robotics club. Completed: review of sensor and motor. Next action: check wheel. Open question: who will update cable? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "인수인계: 로봇 동아리. 완료: 센서, 모터 검토. 다음 작업: 바퀴 확인. 남은 질문: 케이블 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "引き継ぎ：ロボットクラブ。完了：センサーとモーターの検討。次の作業：車輪の確認。未解決の質問：ケーブルは誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Relevo: Club de robótica. Terminado: revisión de sensor y motor. Siguiente paso: comprobar rueda. Pregunta pendiente: ¿quién actualizará cable? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "reuse-project-dialogue",
+    "title": [
+      "Reuse project · Dialogue",
+      "재사용 프로젝트 · 대화문",
+      "再利用プロジェクト · 会話文",
+      "Proyecto de reutilización · Diálogo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. A: Where should we record box? B: Put it beside bottle. A: Should we include paper too? B: Yes, but check fabric first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 가: 상자 항목은 어디에 기록할까요? 나: 병 옆에 적어 주세요. 가: 종이 항목도 넣을까요? 나: 네, 먼저 천 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 A：箱はどこに記録しますか？ B：瓶の隣に書きます。 A：紙も入れますか？ B：はい、先に布を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. A: ¿Dónde anotamos caja? B: Junto a botella. A: ¿Incluimos también papel? B: Sí, pero revisa primero tela. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "text": [
+      "A: Where should we record box? B: Put it beside bottle. A: Should we include paper too? B: Yes, but check fabric first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "가: 상자 항목은 어디에 기록할까요? 나: 병 옆에 적어 주세요. 가: 종이 항목도 넣을까요? 나: 네, 먼저 천 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "A：箱はどこに記録しますか？ B：瓶の隣に書きます。 A：紙も入れますか？ B：はい、先に布を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "A: ¿Dónde anotamos caja? B: Junto a botella. A: ¿Incluimos también papel? B: Sí, pero revisa primero tela. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "reuse-project-activity-log",
+    "title": [
+      "Reuse project · Activity log",
+      "재사용 프로젝트 · 활동 기록",
+      "再利用プロジェクト · 活動記録",
+      "Proyecto de reutilización · Registro"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. 09:00 - Review: box. 09:15 - Prepare: bottle. 09:30 - Check: paper. 09:45 - Record: fabric. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 09:00 - 검토: 상자. 09:15 - 준비: 병. 09:30 - 확인: 종이. 09:45 - 기록: 천. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 09:00 - 検討：箱。09:15 - 準備：瓶。09:30 - 確認：紙。09:45 - 記録：布。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. 09:00 - Revisar: caja. 09:15 - Preparar: botella. 09:30 - Comprobar: papel. 09:45 - Anotar: tela. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "text": [
+      "09:00 - Review: box. 09:15 - Prepare: bottle. 09:30 - Check: paper. 09:45 - Record: fabric. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "09:00 - 검토: 상자. 09:15 - 준비: 병. 09:30 - 확인: 종이. 09:45 - 기록: 천. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "09:00 - 検討：箱。09:15 - 準備：瓶。09:30 - 確認：紙。09:45 - 記録：布。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "09:00 - Revisar: caja. 09:15 - Preparar: botella. 09:30 - Comprobar: papel. 09:45 - Anotar: tela. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "reuse-project-inventory",
+    "title": [
+      "Reuse project · Inventory",
+      "재사용 프로젝트 · 물품 기록",
+      "再利用プロジェクト · 品目記録",
+      "Proyecto de reutilización · Inventario"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Record 01: box (checked). Record 02: bottle (pending). Record 03: paper (checked). Record 04: fabric (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 기록 01: 상자 (확인). 기록 02: 병 (대기). 기록 03: 종이 (확인). 기록 04: 천 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 記録01：箱（確認済み）。記録02：瓶（保留）。記録03：紙（確認済み）。記録04：布（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Registro 01: caja (revisado). Registro 02: botella (pendiente). Registro 03: papel (revisado). Registro 04: tela (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "text": [
+      "Record 01: box (checked). Record 02: bottle (pending). Record 03: paper (checked). Record 04: fabric (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "기록 01: 상자 (확인). 기록 02: 병 (대기). 기록 03: 종이 (확인). 기록 04: 천 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "記録01：箱（確認済み）。記録02：瓶（保留）。記録03：紙（確認済み）。記録04：布（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Registro 01: caja (revisado). Registro 02: botella (pendiente). Registro 03: papel (revisado). Registro 04: tela (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "reuse-project-quoted-speech",
+    "title": [
+      "Reuse project · Quoted speech",
+      "재사용 프로젝트 · 인용문",
+      "再利用プロジェクト · 引用文",
+      "Proyecto de reutilización · Citas"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. \"Start with box,\" the organizer said. \"Then review bottle and paper.\" A partner asked, \"What about fabric?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 진행자가 말했습니다. \"상자 항목부터 시작하세요. 그다음 병, 종이 항목을 살펴보세요.\" 짝이 물었습니다. \"천 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 進行役は「箱から始めて、次に瓶と紙を確認してください」と言いました。相手が「布はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. \"Empieza con caja\", dijo la persona responsable. \"Después revisa botella y papel\". Alguien preguntó: \"¿Y tela?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "text": [
+      "\"Start with box,\" the organizer said. \"Then review bottle and paper.\" A partner asked, \"What about fabric?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "진행자가 말했습니다. \"상자 항목부터 시작하세요. 그다음 병, 종이 항목을 살펴보세요.\" 짝이 물었습니다. \"천 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "進行役は「箱から始めて、次に瓶と紙を確認してください」と言いました。相手が「布はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "\"Empieza con caja\", dijo la persona responsable. \"Después revisa botella y papel\". Alguien preguntó: \"¿Y tela?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "reuse-project-handover",
+    "title": [
+      "Reuse project · Action handover",
+      "재사용 프로젝트 · 인수인계",
+      "再利用プロジェクト · 引き継ぎ",
+      "Proyecto de reutilización · Relevo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Handover: Reuse project. Completed: review of box and bottle. Next action: check paper. Open question: who will update fabric? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 인수인계: 재사용 프로젝트. 완료: 상자, 병 검토. 다음 작업: 종이 확인. 남은 질문: 천 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 引き継ぎ：再利用プロジェクト。完了：箱と瓶の検討。次の作業：紙の確認。未解決の質問：布は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Relevo: Proyecto de reutilización. Terminado: revisión de caja y botella. Siguiente paso: comprobar papel. Pregunta pendiente: ¿quién actualizará tela? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "text": [
+      "Handover: Reuse project. Completed: review of box and bottle. Next action: check paper. Open question: who will update fabric? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "인수인계: 재사용 프로젝트. 완료: 상자, 병 검토. 다음 작업: 종이 확인. 남은 질문: 천 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "引き継ぎ：再利用プロジェクト。完了：箱と瓶の検討。次の作業：紙の確認。未解決の質問：布は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Relevo: Proyecto de reutilización. Terminado: revisión de caja y botella. Siguiente paso: comprobar papel. Pregunta pendiente: ¿quién actualizará tela? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "volunteer-day-dialogue",
+    "title": [
+      "Volunteer day · Dialogue",
+      "봉사 활동 · 대화문",
+      "ボランティアの日 · 会話文",
+      "Jornada de voluntariado · Diálogo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. A: Where should we record welcome? B: Put it beside roster. A: Should we include station too? B: Yes, but check kit first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 가: 환영 항목은 어디에 기록할까요? 나: 명단 옆에 적어 주세요. 가: 담당구역 항목도 넣을까요? 나: 네, 먼저 준비물 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 A：歓迎はどこに記録しますか？ B：名簿の隣に書きます。 A：担当場所も入れますか？ B：はい、先に道具一式を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. A: ¿Dónde anotamos bienvenida? B: Junto a lista. A: ¿Incluimos también puesto? B: Sí, pero revisa primero material. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "text": [
+      "A: Where should we record welcome? B: Put it beside roster. A: Should we include station too? B: Yes, but check kit first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "가: 환영 항목은 어디에 기록할까요? 나: 명단 옆에 적어 주세요. 가: 담당구역 항목도 넣을까요? 나: 네, 먼저 준비물 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "A：歓迎はどこに記録しますか？ B：名簿の隣に書きます。 A：担当場所も入れますか？ B：はい、先に道具一式を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "A: ¿Dónde anotamos bienvenida? B: Junto a lista. A: ¿Incluimos también puesto? B: Sí, pero revisa primero material. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "volunteer-day-activity-log",
+    "title": [
+      "Volunteer day · Activity log",
+      "봉사 활동 · 활동 기록",
+      "ボランティアの日 · 活動記録",
+      "Jornada de voluntariado · Registro"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. 09:00 - Review: welcome. 09:15 - Prepare: roster. 09:30 - Check: station. 09:45 - Record: kit. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 09:00 - 검토: 환영. 09:15 - 준비: 명단. 09:30 - 확인: 담당구역. 09:45 - 기록: 준비물. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 09:00 - 検討：歓迎。09:15 - 準備：名簿。09:30 - 確認：担当場所。09:45 - 記録：道具一式。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. 09:00 - Revisar: bienvenida. 09:15 - Preparar: lista. 09:30 - Comprobar: puesto. 09:45 - Anotar: material. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "text": [
+      "09:00 - Review: welcome. 09:15 - Prepare: roster. 09:30 - Check: station. 09:45 - Record: kit. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "09:00 - 검토: 환영. 09:15 - 준비: 명단. 09:30 - 확인: 담당구역. 09:45 - 기록: 준비물. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "09:00 - 検討：歓迎。09:15 - 準備：名簿。09:30 - 確認：担当場所。09:45 - 記録：道具一式。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "09:00 - Revisar: bienvenida. 09:15 - Preparar: lista. 09:30 - Comprobar: puesto. 09:45 - Anotar: material. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "volunteer-day-inventory",
+    "title": [
+      "Volunteer day · Inventory",
+      "봉사 활동 · 물품 기록",
+      "ボランティアの日 · 品目記録",
+      "Jornada de voluntariado · Inventario"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Record 01: welcome (checked). Record 02: roster (pending). Record 03: station (checked). Record 04: kit (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 기록 01: 환영 (확인). 기록 02: 명단 (대기). 기록 03: 담당구역 (확인). 기록 04: 준비물 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 記録01：歓迎（確認済み）。記録02：名簿（保留）。記録03：担当場所（確認済み）。記録04：道具一式（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Registro 01: bienvenida (revisado). Registro 02: lista (pendiente). Registro 03: puesto (revisado). Registro 04: material (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "text": [
+      "Record 01: welcome (checked). Record 02: roster (pending). Record 03: station (checked). Record 04: kit (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "기록 01: 환영 (확인). 기록 02: 명단 (대기). 기록 03: 담당구역 (확인). 기록 04: 준비물 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "記録01：歓迎（確認済み）。記録02：名簿（保留）。記録03：担当場所（確認済み）。記録04：道具一式（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Registro 01: bienvenida (revisado). Registro 02: lista (pendiente). Registro 03: puesto (revisado). Registro 04: material (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "volunteer-day-quoted-speech",
+    "title": [
+      "Volunteer day · Quoted speech",
+      "봉사 활동 · 인용문",
+      "ボランティアの日 · 引用文",
+      "Jornada de voluntariado · Citas"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. \"Start with welcome,\" the organizer said. \"Then review roster and station.\" A partner asked, \"What about kit?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 진행자가 말했습니다. \"환영 항목부터 시작하세요. 그다음 명단, 담당구역 항목을 살펴보세요.\" 짝이 물었습니다. \"준비물 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 進行役は「歓迎から始めて、次に名簿と担当場所を確認してください」と言いました。相手が「道具一式はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. \"Empieza con bienvenida\", dijo la persona responsable. \"Después revisa lista y puesto\". Alguien preguntó: \"¿Y material?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "text": [
+      "\"Start with welcome,\" the organizer said. \"Then review roster and station.\" A partner asked, \"What about kit?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "진행자가 말했습니다. \"환영 항목부터 시작하세요. 그다음 명단, 담당구역 항목을 살펴보세요.\" 짝이 물었습니다. \"준비물 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "進行役は「歓迎から始めて、次に名簿と担当場所を確認してください」と言いました。相手が「道具一式はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "\"Empieza con bienvenida\", dijo la persona responsable. \"Después revisa lista y puesto\". Alguien preguntó: \"¿Y material?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "volunteer-day-handover",
+    "title": [
+      "Volunteer day · Action handover",
+      "봉사 활동 · 인수인계",
+      "ボランティアの日 · 引き継ぎ",
+      "Jornada de voluntariado · Relevo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Handover: Volunteer day. Completed: review of welcome and roster. Next action: check station. Open question: who will update kit? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 인수인계: 봉사 활동. 완료: 환영, 명단 검토. 다음 작업: 담당구역 확인. 남은 질문: 준비물 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 引き継ぎ：ボランティアの日。完了：歓迎と名簿の検討。次の作業：担当場所の確認。未解決の質問：道具一式は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Relevo: Jornada de voluntariado. Terminado: revisión de bienvenida y lista. Siguiente paso: comprobar puesto. Pregunta pendiente: ¿quién actualizará material? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "text": [
+      "Handover: Volunteer day. Completed: review of welcome and roster. Next action: check station. Open question: who will update kit? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "인수인계: 봉사 활동. 완료: 환영, 명단 검토. 다음 작업: 담당구역 확인. 남은 질문: 준비물 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "引き継ぎ：ボランティアの日。完了：歓迎と名簿の検討。次の作業：担当場所の確認。未解決の質問：道具一式は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Relevo: Jornada de voluntariado. Terminado: revisión de bienvenida y lista. Siguiente paso: comprobar puesto. Pregunta pendiente: ¿quién actualizará material? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "festival-planning-dialogue",
+    "title": [
+      "Festival planning · Dialogue",
+      "축제 준비 · 대화문",
+      "祭りの準備 · 会話文",
+      "Organización de festival · Diálogo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. A: Where should we record stage? B: Put it beside poster. A: Should we include booth too? B: Yes, but check schedule first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 가: 무대 항목은 어디에 기록할까요? 나: 포스터 옆에 적어 주세요. 가: 부스 항목도 넣을까요? 나: 네, 먼저 일정 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 A：舞台はどこに記録しますか？ B：ポスターの隣に書きます。 A：ブースも入れますか？ B：はい、先に予定を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. A: ¿Dónde anotamos escenario? B: Junto a cartel. A: ¿Incluimos también puesto? B: Sí, pero revisa primero horario. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "text": [
+      "A: Where should we record stage? B: Put it beside poster. A: Should we include booth too? B: Yes, but check schedule first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "가: 무대 항목은 어디에 기록할까요? 나: 포스터 옆에 적어 주세요. 가: 부스 항목도 넣을까요? 나: 네, 먼저 일정 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "A：舞台はどこに記録しますか？ B：ポスターの隣に書きます。 A：ブースも入れますか？ B：はい、先に予定を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "A: ¿Dónde anotamos escenario? B: Junto a cartel. A: ¿Incluimos también puesto? B: Sí, pero revisa primero horario. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "festival-planning-activity-log",
+    "title": [
+      "Festival planning · Activity log",
+      "축제 준비 · 활동 기록",
+      "祭りの準備 · 活動記録",
+      "Organización de festival · Registro"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. 09:00 - Review: stage. 09:15 - Prepare: poster. 09:30 - Check: booth. 09:45 - Record: schedule. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 09:00 - 검토: 무대. 09:15 - 준비: 포스터. 09:30 - 확인: 부스. 09:45 - 기록: 일정. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 09:00 - 検討：舞台。09:15 - 準備：ポスター。09:30 - 確認：ブース。09:45 - 記録：予定。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. 09:00 - Revisar: escenario. 09:15 - Preparar: cartel. 09:30 - Comprobar: puesto. 09:45 - Anotar: horario. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "text": [
+      "09:00 - Review: stage. 09:15 - Prepare: poster. 09:30 - Check: booth. 09:45 - Record: schedule. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "09:00 - 검토: 무대. 09:15 - 준비: 포스터. 09:30 - 확인: 부스. 09:45 - 기록: 일정. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "09:00 - 検討：舞台。09:15 - 準備：ポスター。09:30 - 確認：ブース。09:45 - 記録：予定。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "09:00 - Revisar: escenario. 09:15 - Preparar: cartel. 09:30 - Comprobar: puesto. 09:45 - Anotar: horario. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "festival-planning-inventory",
+    "title": [
+      "Festival planning · Inventory",
+      "축제 준비 · 물품 기록",
+      "祭りの準備 · 品目記録",
+      "Organización de festival · Inventario"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Record 01: stage (checked). Record 02: poster (pending). Record 03: booth (checked). Record 04: schedule (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 기록 01: 무대 (확인). 기록 02: 포스터 (대기). 기록 03: 부스 (확인). 기록 04: 일정 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 記録01：舞台（確認済み）。記録02：ポスター（保留）。記録03：ブース（確認済み）。記録04：予定（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Registro 01: escenario (revisado). Registro 02: cartel (pendiente). Registro 03: puesto (revisado). Registro 04: horario (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "text": [
+      "Record 01: stage (checked). Record 02: poster (pending). Record 03: booth (checked). Record 04: schedule (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "기록 01: 무대 (확인). 기록 02: 포스터 (대기). 기록 03: 부스 (확인). 기록 04: 일정 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "記録01：舞台（確認済み）。記録02：ポスター（保留）。記録03：ブース（確認済み）。記録04：予定（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Registro 01: escenario (revisado). Registro 02: cartel (pendiente). Registro 03: puesto (revisado). Registro 04: horario (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "festival-planning-quoted-speech",
+    "title": [
+      "Festival planning · Quoted speech",
+      "축제 준비 · 인용문",
+      "祭りの準備 · 引用文",
+      "Organización de festival · Citas"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. \"Start with stage,\" the organizer said. \"Then review poster and booth.\" A partner asked, \"What about schedule?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 진행자가 말했습니다. \"무대 항목부터 시작하세요. 그다음 포스터, 부스 항목을 살펴보세요.\" 짝이 물었습니다. \"일정 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 進行役は「舞台から始めて、次にポスターとブースを確認してください」と言いました。相手が「予定はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. \"Empieza con escenario\", dijo la persona responsable. \"Después revisa cartel y puesto\". Alguien preguntó: \"¿Y horario?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "text": [
+      "\"Start with stage,\" the organizer said. \"Then review poster and booth.\" A partner asked, \"What about schedule?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "진행자가 말했습니다. \"무대 항목부터 시작하세요. 그다음 포스터, 부스 항목을 살펴보세요.\" 짝이 물었습니다. \"일정 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "進行役は「舞台から始めて、次にポスターとブースを確認してください」と言いました。相手が「予定はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "\"Empieza con escenario\", dijo la persona responsable. \"Después revisa cartel y puesto\". Alguien preguntó: \"¿Y horario?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "festival-planning-handover",
+    "title": [
+      "Festival planning · Action handover",
+      "축제 준비 · 인수인계",
+      "祭りの準備 · 引き継ぎ",
+      "Organización de festival · Relevo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Handover: Festival planning. Completed: review of stage and poster. Next action: check booth. Open question: who will update schedule? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 인수인계: 축제 준비. 완료: 무대, 포스터 검토. 다음 작업: 부스 확인. 남은 질문: 일정 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 引き継ぎ：祭りの準備。完了：舞台とポスターの検討。次の作業：ブースの確認。未解決の質問：予定は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Relevo: Organización de festival. Terminado: revisión de escenario y cartel. Siguiente paso: comprobar puesto. Pregunta pendiente: ¿quién actualizará horario? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "text": [
+      "Handover: Festival planning. Completed: review of stage and poster. Next action: check booth. Open question: who will update schedule? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "인수인계: 축제 준비. 완료: 무대, 포스터 검토. 다음 작업: 부스 확인. 남은 질문: 일정 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "引き継ぎ：祭りの準備。完了：舞台とポスターの検討。次の作業：ブースの確認。未解決の質問：予定は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Relevo: Organización de festival. Terminado: revisión de escenario y cartel. Siguiente paso: comprobar puesto. Pregunta pendiente: ¿quién actualizará horario? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "boardgame-host-dialogue",
+    "title": [
+      "Board-game host · Dialogue",
+      "보드게임 진행 · 대화문",
+      "ボードゲーム進行 · 会話文",
+      "Anfitrión de juegos · Diálogo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. A: Where should we record turn? B: Put it beside token. A: Should we include dice too? B: Yes, but check board first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 가: 차례 항목은 어디에 기록할까요? 나: 말 옆에 적어 주세요. 가: 주사위 항목도 넣을까요? 나: 네, 먼저 게임판 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 A：手番はどこに記録しますか？ B：駒の隣に書きます。 A：サイコロも入れますか？ B：はい、先に盤を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. A: ¿Dónde anotamos turno? B: Junto a ficha. A: ¿Incluimos también dado? B: Sí, pero revisa primero tablero. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "text": [
+      "A: Where should we record turn? B: Put it beside token. A: Should we include dice too? B: Yes, but check board first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "가: 차례 항목은 어디에 기록할까요? 나: 말 옆에 적어 주세요. 가: 주사위 항목도 넣을까요? 나: 네, 먼저 게임판 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "A：手番はどこに記録しますか？ B：駒の隣に書きます。 A：サイコロも入れますか？ B：はい、先に盤を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "A: ¿Dónde anotamos turno? B: Junto a ficha. A: ¿Incluimos también dado? B: Sí, pero revisa primero tablero. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "boardgame-host-activity-log",
+    "title": [
+      "Board-game host · Activity log",
+      "보드게임 진행 · 활동 기록",
+      "ボードゲーム進行 · 活動記録",
+      "Anfitrión de juegos · Registro"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. 09:00 - Review: turn. 09:15 - Prepare: token. 09:30 - Check: dice. 09:45 - Record: board. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 09:00 - 검토: 차례. 09:15 - 준비: 말. 09:30 - 확인: 주사위. 09:45 - 기록: 게임판. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 09:00 - 検討：手番。09:15 - 準備：駒。09:30 - 確認：サイコロ。09:45 - 記録：盤。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. 09:00 - Revisar: turno. 09:15 - Preparar: ficha. 09:30 - Comprobar: dado. 09:45 - Anotar: tablero. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "text": [
+      "09:00 - Review: turn. 09:15 - Prepare: token. 09:30 - Check: dice. 09:45 - Record: board. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "09:00 - 검토: 차례. 09:15 - 준비: 말. 09:30 - 확인: 주사위. 09:45 - 기록: 게임판. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "09:00 - 検討：手番。09:15 - 準備：駒。09:30 - 確認：サイコロ。09:45 - 記録：盤。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "09:00 - Revisar: turno. 09:15 - Preparar: ficha. 09:30 - Comprobar: dado. 09:45 - Anotar: tablero. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "boardgame-host-inventory",
+    "title": [
+      "Board-game host · Inventory",
+      "보드게임 진행 · 물품 기록",
+      "ボードゲーム進行 · 品目記録",
+      "Anfitrión de juegos · Inventario"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Record 01: turn (checked). Record 02: token (pending). Record 03: dice (checked). Record 04: board (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 기록 01: 차례 (확인). 기록 02: 말 (대기). 기록 03: 주사위 (확인). 기록 04: 게임판 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 記録01：手番（確認済み）。記録02：駒（保留）。記録03：サイコロ（確認済み）。記録04：盤（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Registro 01: turno (revisado). Registro 02: ficha (pendiente). Registro 03: dado (revisado). Registro 04: tablero (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "text": [
+      "Record 01: turn (checked). Record 02: token (pending). Record 03: dice (checked). Record 04: board (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "기록 01: 차례 (확인). 기록 02: 말 (대기). 기록 03: 주사위 (확인). 기록 04: 게임판 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "記録01：手番（確認済み）。記録02：駒（保留）。記録03：サイコロ（確認済み）。記録04：盤（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Registro 01: turno (revisado). Registro 02: ficha (pendiente). Registro 03: dado (revisado). Registro 04: tablero (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "boardgame-host-quoted-speech",
+    "title": [
+      "Board-game host · Quoted speech",
+      "보드게임 진행 · 인용문",
+      "ボードゲーム進行 · 引用文",
+      "Anfitrión de juegos · Citas"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. \"Start with turn,\" the organizer said. \"Then review token and dice.\" A partner asked, \"What about board?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 진행자가 말했습니다. \"차례 항목부터 시작하세요. 그다음 말, 주사위 항목을 살펴보세요.\" 짝이 물었습니다. \"게임판 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 進行役は「手番から始めて、次に駒とサイコロを確認してください」と言いました。相手が「盤はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. \"Empieza con turno\", dijo la persona responsable. \"Después revisa ficha y dado\". Alguien preguntó: \"¿Y tablero?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "text": [
+      "\"Start with turn,\" the organizer said. \"Then review token and dice.\" A partner asked, \"What about board?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "진행자가 말했습니다. \"차례 항목부터 시작하세요. 그다음 말, 주사위 항목을 살펴보세요.\" 짝이 물었습니다. \"게임판 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "進行役は「手番から始めて、次に駒とサイコロを確認してください」と言いました。相手が「盤はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "\"Empieza con turno\", dijo la persona responsable. \"Después revisa ficha y dado\". Alguien preguntó: \"¿Y tablero?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "boardgame-host-handover",
+    "title": [
+      "Board-game host · Action handover",
+      "보드게임 진행 · 인수인계",
+      "ボードゲーム進行 · 引き継ぎ",
+      "Anfitrión de juegos · Relevo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Handover: Board-game host. Completed: review of turn and token. Next action: check dice. Open question: who will update board? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 인수인계: 보드게임 진행. 완료: 차례, 말 검토. 다음 작업: 주사위 확인. 남은 질문: 게임판 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 引き継ぎ：ボードゲーム進行。完了：手番と駒の検討。次の作業：サイコロの確認。未解決の質問：盤は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Relevo: Anfitrión de juegos. Terminado: revisión de turno y ficha. Siguiente paso: comprobar dado. Pregunta pendiente: ¿quién actualizará tablero? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "text": [
+      "Handover: Board-game host. Completed: review of turn and token. Next action: check dice. Open question: who will update board? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "인수인계: 보드게임 진행. 완료: 차례, 말 검토. 다음 작업: 주사위 확인. 남은 질문: 게임판 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "引き継ぎ：ボードゲーム進行。完了：手番と駒の検討。次の作業：サイコロの確認。未解決の質問：盤は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Relevo: Anfitrión de juegos. Terminado: revisión de turno y ficha. Siguiente paso: comprobar dado. Pregunta pendiente: ¿quién actualizará tablero? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "design-review-dialogue",
+    "title": [
+      "Design review · Dialogue",
+      "디자인 검토 · 대화문",
+      "デザインレビュー · 会話文",
+      "Revisión de diseño · Diálogo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. A: Where should we record layout? B: Put it beside contrast. A: Should we include label too? B: Yes, but check spacing first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 가: 배치 항목은 어디에 기록할까요? 나: 대비 옆에 적어 주세요. 가: 표시문구 항목도 넣을까요? 나: 네, 먼저 간격 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 A：配置はどこに記録しますか？ B：コントラストの隣に書きます。 A：ラベルも入れますか？ B：はい、先に余白を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. A: ¿Dónde anotamos diseño? B: Junto a contraste. A: ¿Incluimos también etiqueta? B: Sí, pero revisa primero espacio. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "text": [
+      "A: Where should we record layout? B: Put it beside contrast. A: Should we include label too? B: Yes, but check spacing first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "가: 배치 항목은 어디에 기록할까요? 나: 대비 옆에 적어 주세요. 가: 표시문구 항목도 넣을까요? 나: 네, 먼저 간격 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "A：配置はどこに記録しますか？ B：コントラストの隣に書きます。 A：ラベルも入れますか？ B：はい、先に余白を確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "A: ¿Dónde anotamos diseño? B: Junto a contraste. A: ¿Incluimos también etiqueta? B: Sí, pero revisa primero espacio. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "design-review-activity-log",
+    "title": [
+      "Design review · Activity log",
+      "디자인 검토 · 활동 기록",
+      "デザインレビュー · 活動記録",
+      "Revisión de diseño · Registro"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. 09:00 - Review: layout. 09:15 - Prepare: contrast. 09:30 - Check: label. 09:45 - Record: spacing. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 09:00 - 검토: 배치. 09:15 - 준비: 대비. 09:30 - 확인: 표시문구. 09:45 - 기록: 간격. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 09:00 - 検討：配置。09:15 - 準備：コントラスト。09:30 - 確認：ラベル。09:45 - 記録：余白。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. 09:00 - Revisar: diseño. 09:15 - Preparar: contraste. 09:30 - Comprobar: etiqueta. 09:45 - Anotar: espacio. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "text": [
+      "09:00 - Review: layout. 09:15 - Prepare: contrast. 09:30 - Check: label. 09:45 - Record: spacing. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "09:00 - 검토: 배치. 09:15 - 준비: 대비. 09:30 - 확인: 표시문구. 09:45 - 기록: 간격. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "09:00 - 検討：配置。09:15 - 準備：コントラスト。09:30 - 確認：ラベル。09:45 - 記録：余白。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "09:00 - Revisar: diseño. 09:15 - Preparar: contraste. 09:30 - Comprobar: etiqueta. 09:45 - Anotar: espacio. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "design-review-inventory",
+    "title": [
+      "Design review · Inventory",
+      "디자인 검토 · 물품 기록",
+      "デザインレビュー · 品目記録",
+      "Revisión de diseño · Inventario"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Record 01: layout (checked). Record 02: contrast (pending). Record 03: label (checked). Record 04: spacing (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 기록 01: 배치 (확인). 기록 02: 대비 (대기). 기록 03: 표시문구 (확인). 기록 04: 간격 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 記録01：配置（確認済み）。記録02：コントラスト（保留）。記録03：ラベル（確認済み）。記録04：余白（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Registro 01: diseño (revisado). Registro 02: contraste (pendiente). Registro 03: etiqueta (revisado). Registro 04: espacio (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "text": [
+      "Record 01: layout (checked). Record 02: contrast (pending). Record 03: label (checked). Record 04: spacing (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "기록 01: 배치 (확인). 기록 02: 대비 (대기). 기록 03: 표시문구 (확인). 기록 04: 간격 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "記録01：配置（確認済み）。記録02：コントラスト（保留）。記録03：ラベル（確認済み）。記録04：余白（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Registro 01: diseño (revisado). Registro 02: contraste (pendiente). Registro 03: etiqueta (revisado). Registro 04: espacio (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "design-review-quoted-speech",
+    "title": [
+      "Design review · Quoted speech",
+      "디자인 검토 · 인용문",
+      "デザインレビュー · 引用文",
+      "Revisión de diseño · Citas"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. \"Start with layout,\" the organizer said. \"Then review contrast and label.\" A partner asked, \"What about spacing?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 진행자가 말했습니다. \"배치 항목부터 시작하세요. 그다음 대비, 표시문구 항목을 살펴보세요.\" 짝이 물었습니다. \"간격 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 進行役は「配置から始めて、次にコントラストとラベルを確認してください」と言いました。相手が「余白はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. \"Empieza con diseño\", dijo la persona responsable. \"Después revisa contraste y etiqueta\". Alguien preguntó: \"¿Y espacio?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "text": [
+      "\"Start with layout,\" the organizer said. \"Then review contrast and label.\" A partner asked, \"What about spacing?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "진행자가 말했습니다. \"배치 항목부터 시작하세요. 그다음 대비, 표시문구 항목을 살펴보세요.\" 짝이 물었습니다. \"간격 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "進行役は「配置から始めて、次にコントラストとラベルを確認してください」と言いました。相手が「余白はどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "\"Empieza con diseño\", dijo la persona responsable. \"Después revisa contraste y etiqueta\". Alguien preguntó: \"¿Y espacio?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "design-review-handover",
+    "title": [
+      "Design review · Action handover",
+      "디자인 검토 · 인수인계",
+      "デザインレビュー · 引き継ぎ",
+      "Revisión de diseño · Relevo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Handover: Design review. Completed: review of layout and contrast. Next action: check label. Open question: who will update spacing? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 인수인계: 디자인 검토. 완료: 배치, 대비 검토. 다음 작업: 표시문구 확인. 남은 질문: 간격 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 引き継ぎ：デザインレビュー。完了：配置とコントラストの検討。次の作業：ラベルの確認。未解決の質問：余白は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Relevo: Revisión de diseño. Terminado: revisión de diseño y contraste. Siguiente paso: comprobar etiqueta. Pregunta pendiente: ¿quién actualizará espacio? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "text": [
+      "Handover: Design review. Completed: review of layout and contrast. Next action: check label. Open question: who will update spacing? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "인수인계: 디자인 검토. 완료: 배치, 대비 검토. 다음 작업: 표시문구 확인. 남은 질문: 간격 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "引き継ぎ：デザインレビュー。完了：配置とコントラストの検討。次の作業：ラベルの確認。未解決の質問：余白は誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Relevo: Revisión de diseño. Terminado: revisión de diseño y contraste. Siguiente paso: comprobar etiqueta. Pregunta pendiente: ¿quién actualizará espacio? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "remote-meeting-dialogue",
+    "title": [
+      "Remote meeting · Dialogue",
+      "원격 회의 · 대화문",
+      "オンライン会議 · 会話文",
+      "Reunión remota · Diálogo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. A: Where should we record agenda? B: Put it beside link. A: Should we include microphone too? B: Yes, but check notes first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 가: 안건 항목은 어디에 기록할까요? 나: 접속주소 옆에 적어 주세요. 가: 마이크 항목도 넣을까요? 나: 네, 먼저 메모 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 A：議題はどこに記録しますか？ B：リンクの隣に書きます。 A：マイクも入れますか？ B：はい、先にメモを確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. A: ¿Dónde anotamos agenda? B: Junto a enlace. A: ¿Incluimos también micrófono? B: Sí, pero revisa primero notas. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "text": [
+      "A: Where should we record agenda? B: Put it beside link. A: Should we include microphone too? B: Yes, but check notes first. A: I will read the list aloud. B: Then we can confirm it together.",
+      "가: 안건 항목은 어디에 기록할까요? 나: 접속주소 옆에 적어 주세요. 가: 마이크 항목도 넣을까요? 나: 네, 먼저 메모 항목을 확인하세요. 가: 목록을 소리 내어 읽겠습니다. 나: 함께 확인해요.",
+      "A：議題はどこに記録しますか？ B：リンクの隣に書きます。 A：マイクも入れますか？ B：はい、先にメモを確認します。 A：一覧を読み上げます。 B：一緒に確かめましょう。",
+      "A: ¿Dónde anotamos agenda? B: Junto a enlace. A: ¿Incluimos también micrófono? B: Sí, pero revisa primero notas. A: Leeré la lista en voz alta. B: Así podemos comprobarla juntos."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "remote-meeting-activity-log",
+    "title": [
+      "Remote meeting · Activity log",
+      "원격 회의 · 활동 기록",
+      "オンライン会議 · 活動記録",
+      "Reunión remota · Registro"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. 09:00 - Review: agenda. 09:15 - Prepare: link. 09:30 - Check: microphone. 09:45 - Record: notes. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 09:00 - 검토: 안건. 09:15 - 준비: 접속주소. 09:30 - 확인: 마이크. 09:45 - 기록: 메모. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 09:00 - 検討：議題。09:15 - 準備：リンク。09:30 - 確認：マイク。09:45 - 記録：メモ。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. 09:00 - Revisar: agenda. 09:15 - Preparar: enlace. 09:30 - Comprobar: micrófono. 09:45 - Anotar: notas. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "text": [
+      "09:00 - Review: agenda. 09:15 - Prepare: link. 09:30 - Check: microphone. 09:45 - Record: notes. At 10:00, compare the notes with the original list. Mark unfinished work with a question mark.",
+      "09:00 - 검토: 안건. 09:15 - 준비: 접속주소. 09:30 - 확인: 마이크. 09:45 - 기록: 메모. 10:00에 기록을 원래 목록과 비교합니다. 끝나지 않은 일에는 물음표를 붙입니다.",
+      "09:00 - 検討：議題。09:15 - 準備：リンク。09:30 - 確認：マイク。09:45 - 記録：メモ。10:00に記録を元の一覧と比べます。終わっていない作業には疑問符を付けます。",
+      "09:00 - Revisar: agenda. 09:15 - Preparar: enlace. 09:30 - Comprobar: micrófono. 09:45 - Anotar: notas. A las 10:00, compara las notas con la lista inicial. Marca lo pendiente con una interrogación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "remote-meeting-inventory",
+    "title": [
+      "Remote meeting · Inventory",
+      "원격 회의 · 물품 기록",
+      "オンライン会議 · 品目記録",
+      "Reunión remota · Inventario"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Record 01: agenda (checked). Record 02: link (pending). Record 03: microphone (checked). Record 04: notes (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 기록 01: 안건 (확인). 기록 02: 접속주소 (대기). 기록 03: 마이크 (확인). 기록 04: 메모 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 記録01：議題（確認済み）。記録02：リンク（保留）。記録03：マイク（確認済み）。記録04：メモ（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Registro 01: agenda (revisado). Registro 02: enlace (pendiente). Registro 03: micrófono (revisado). Registro 04: notas (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "text": [
+      "Record 01: agenda (checked). Record 02: link (pending). Record 03: microphone (checked). Record 04: notes (pending). Total: 4 records; 2 checked, 2 pending. Keep the numbers and punctuation in the same order.",
+      "기록 01: 안건 (확인). 기록 02: 접속주소 (대기). 기록 03: 마이크 (확인). 기록 04: 메모 (대기). 합계: 기록 4개, 확인 2개, 대기 2개입니다. 숫자와 문장 부호의 순서를 유지하세요.",
+      "記録01：議題（確認済み）。記録02：リンク（保留）。記録03：マイク（確認済み）。記録04：メモ（保留）。合計：4件、確認済み2件、保留2件です。数字と記号の順番を保ちましょう。",
+      "Registro 01: agenda (revisado). Registro 02: enlace (pendiente). Registro 03: micrófono (revisado). Registro 04: notas (pendiente). Total: 4 registros; 2 revisados y 2 pendientes. Conserva el orden y la puntuación."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "remote-meeting-quoted-speech",
+    "title": [
+      "Remote meeting · Quoted speech",
+      "원격 회의 · 인용문",
+      "オンライン会議 · 引用文",
+      "Reunión remota · Citas"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. \"Start with agenda,\" the organizer said. \"Then review link and microphone.\" A partner asked, \"What about notes?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 진행자가 말했습니다. \"안건 항목부터 시작하세요. 그다음 접속주소, 마이크 항목을 살펴보세요.\" 짝이 물었습니다. \"메모 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 進行役は「議題から始めて、次にリンクとマイクを確認してください」と言いました。相手が「メモはどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. \"Empieza con agenda\", dijo la persona responsable. \"Después revisa enlace y micrófono\". Alguien preguntó: \"¿Y notas?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "text": [
+      "\"Start with agenda,\" the organizer said. \"Then review link and microphone.\" A partner asked, \"What about notes?\" The answer was simple: \"Write it down before we finish.\" Everyone checked the final line once more.",
+      "진행자가 말했습니다. \"안건 항목부터 시작하세요. 그다음 접속주소, 마이크 항목을 살펴보세요.\" 짝이 물었습니다. \"메모 항목은요?\" 답은 간단했습니다. \"끝나기 전에 적어 두세요.\" 모두 마지막 줄을 다시 확인했습니다.",
+      "進行役は「議題から始めて、次にリンクとマイクを確認してください」と言いました。相手が「メモはどうしますか？」と聞くと、「終わる前に書きましょう」と答えました。全員でもう一度最後の行を確認しました。",
+      "\"Empieza con agenda\", dijo la persona responsable. \"Después revisa enlace y micrófono\". Alguien preguntó: \"¿Y notas?\" La respuesta fue: \"Anótalo antes de terminar\". Todos revisaron la última línea una vez más."
+    ],
+    "seconds": 120
+  },
+  {
+    "slug": "remote-meeting-handover",
+    "title": [
+      "Remote meeting · Action handover",
+      "원격 회의 · 인수인계",
+      "オンライン会議 · 引き継ぎ",
+      "Reunión remota · Relevo"
+    ],
+    "desc": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad."
+    ],
+    "guide": [
+      "Practice the punctuation and spacing of this everyday writing format. Review mistakes before increasing speed. Handover: Remote meeting. Completed: review of agenda and link. Next action: check microphone. Open question: who will update notes? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "생활 속 문서 형식의 문장 부호와 띄어쓰기를 연습하세요. 속도를 높이기 전에 틀린 부분을 확인하세요. 인수인계: 원격 회의. 완료: 안건, 접속주소 검토. 다음 작업: 마이크 확인. 남은 질문: 메모 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "身近な文章形式の句読点や空白を練習します。速度を上げる前に間違いを確認しましょう。 引き継ぎ：オンライン会議。完了：議題とリンクの検討。次の作業：マイクの確認。未解決の質問：メモは誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Practica la puntuación y los espacios de este formato cotidiano. Revisa los errores antes de aumentar la velocidad. Relevo: Reunión remota. Terminado: revisión de agenda y enlace. Siguiente paso: comprobar micrófono. Pregunta pendiente: ¿quién actualizará notas? Anota la persona responsable y deja una nota clara para el siguiente turno."
+    ],
+    "text": [
+      "Handover: Remote meeting. Completed: review of agenda and link. Next action: check microphone. Open question: who will update notes? Please record the owner, confirm the next step, and leave a clear note for the next person.",
+      "인수인계: 원격 회의. 완료: 안건, 접속주소 검토. 다음 작업: 마이크 확인. 남은 질문: 메모 항목은 누가 수정하나요? 담당자를 기록하고 다음 단계를 확인한 뒤 다음 사람에게 명확한 메모를 남기세요.",
+      "引き継ぎ：オンライン会議。完了：議題とリンクの検討。次の作業：マイクの確認。未解決の質問：メモは誰が更新しますか？担当者を書き、次の手順を確認して、次の人へ分かりやすいメモを残しましょう。",
+      "Relevo: Reunión remota. Terminado: revisión de agenda y enlace. Siguiente paso: comprobar micrófono. Pregunta pendiente: ¿quién actualizará notas? Anota la persona responsable y deja una nota clara para el siguiente turno."
     ],
     "seconds": 120
   }
