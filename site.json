@@ -1,4 +1,12 @@
 {
   "kind": "type",
-  "measurementId": "G-H16XEQTY2M"
+  "measurementId": "G-H16XEQTY2M",
+  "adsterra": {
+    "approved": true,
+    "key": "14f0312cb07c5ddb35bd7cef73a17f9b",
+    "unitId": 31878936
+  },
+  "coupang": {
+    "channelRegistered": false
+  }
 }
