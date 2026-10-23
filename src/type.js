@@ -1,3 +1,4 @@
+import { missedWords, practicePassage } from "./practice-words.js";
 import { followTypingCaret } from "./typing-scroll.js";
 import { scoreTyping, escape, csv } from "./core.js";
 import { passageFor } from "./content.js";
@@ -19,6 +20,7 @@ let text = passageFor(config.lang, config.preset),
   composing = false,
   committed = "",
   records = [];
+let originalText = text, reviewWords = [];
 const key = "denny-type-records-v1";
 try {
   const r = JSON.parse(localStorage.getItem(key) || "[]");
@@ -74,6 +76,9 @@ function render() {
     )
     .join("");
   followTypingCaret($("passage"), $("passage").querySelector(".caret"));
+  const progress = Math.min(100, Math.floor(typed.length / Math.max(1, target.length) * 1000) / 10);
+  $("passage-progress").value = progress;
+  $("progress-text").textContent = progress + "%";
 }
 function reset() {
   clearInterval(timer);
@@ -88,6 +93,7 @@ function reset() {
   $("apply").disabled = false;
   $("finish").disabled = true;
   $("result").hidden = true;
+  $("retry-words").disabled = true;
   $("time").textContent = duration + "s";
   $("wpm").textContent = "0";
   $("accuracy").textContent = "100%";
@@ -117,6 +123,9 @@ function finish() {
   $("apply").disabled = false;
   $("finish").disabled = true;
   $("result").hidden = false;
+  render();
+  reviewWords = missedWords(text, committed);
+  $("retry-words").disabled = reviewWords.length === 0;
   $("result-stats").textContent =
     `${r.wpm} WPM · ${r.cpm} ${t("cpm")} · ${r.accuracy}%`;
   const input = Array.from($("typing").value.normalize("NFC")),
@@ -210,16 +219,51 @@ $("apply").onclick = () => {
     return;
   }
   text = value;
+  originalText = text;
+  $("original-passage").hidden = true;
   reset();
   $("typing").focus();
 };
 function restore(s) {
   text = s.text;
+  originalText = text;
+  $("original-passage").hidden = true;
   duration = s.seconds;
   $("duration").value = duration;
   $("custom-text").value = text;
   reset();
 }
+$("retry-words").onclick = () => {
+  const practice = practicePassage(reviewWords);
+  if (!practice) return;
+  text = practice;
+  $("original-passage").hidden = false;
+  $("custom-text").value = text;
+  reset();
+  $("typing").focus();
+  status(t("retryHint"));
+  track("practice_missed_words");
+};
+$("original-passage").onclick = () => {
+  text = originalText;
+  $("custom-text").value = text;
+  $("original-passage").hidden = true;
+  reset();
+  $("typing").focus();
+};
+function setTextSize(size) {
+  $("passage").dataset.size = size;
+  $("text-size").value = size;
+}
+try {
+  const size = localStorage.getItem("denny-type-text-size");
+  if (["standard", "large", "extra"].includes(size)) setTextSize(size);
+} catch {}
+$("text-size").onchange = () => {
+  const size = $("text-size").value;
+  setTextSize(size);
+  try { localStorage.setItem("denny-type-text-size", size); } catch {}
+};
 const shared = readShared();
 if (shared) restore(shared);
 wireStorage(() => ({ v: 1, kind: "type", text, seconds: duration }), restore);
