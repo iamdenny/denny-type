@@ -1,3 +1,4 @@
+import { followTypingCaret } from "./typing-scroll.js";
 import { scoreTyping, escape, csv } from "./core.js";
 import { passageFor } from "./content.js";
 import {
@@ -65,18 +66,14 @@ function recordView() {
 function render() {
   const typed = Array.from($("typing").value.normalize("NFC")),
     target = Array.from(text.normalize("NFC"));
+  const position = Array.from($("typing").value.slice(0, $("typing").selectionStart).normalize("NFC")).length;
   $("passage").innerHTML = target
     .map(
       (c, i) =>
-        `<span class="${i < typed.length ? (typed[i] === c ? "correct" : "incorrect") : i === typed.length ? "caret" : ""}">${escape(c)}</span>`,
+        `<span class="${i < typed.length ? (typed[i] === c ? "correct" : "incorrect") : ""} ${i === Math.min(position, target.length - 1) ? "caret" : ""}">${escape(c)}</span>`,
     )
     .join("");
-  const caret = $("passage").querySelector(".caret");
-  if (caret)
-    $("passage").scrollTop = Math.max(
-      0,
-      caret.offsetTop - $("passage").offsetTop - 55,
-    );
+  followTypingCaret($("passage"), $("passage").querySelector(".caret"));
 }
 function reset() {
   clearInterval(timer);
@@ -182,6 +179,13 @@ $("typing").addEventListener("compositionend", () => {
   input();
 });
 $("typing").addEventListener("input", input);
+$("typing").addEventListener("select", () => { if (!composing && !done) render(); });
+$("typing").addEventListener("keyup", (event) => {
+  if (!composing && !done && ["ArrowLeft", "ArrowRight", "ArrowUp", "ArrowDown", "Home", "End"].includes(event.key)) render();
+});
+new ResizeObserver(() => {
+  if (!composing) followTypingCaret($("passage"), $("passage").querySelector(".caret"));
+}).observe($("passage"));
 for (const event of ["paste", "drop"])
   $("typing").addEventListener(event, (e) => e.preventDefault());
 $("typing").addEventListener("beforeinput", (e) => {

@@ -644,7 +644,8 @@ select:focus {
   position: relative;
   white-space: pre-wrap;
   margin-bottom: 24px;
-  scroll-behavior: smooth;
+  scroll-behavior: auto;
+  overflow-anchor: none;
 }
 .passage .correct {
   color: var(--accent);
