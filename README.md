@@ -1,27 +1,35 @@
 # Denny Type
 
-https://type.iamdenny.com
+Production: https://type.iamdenny.com/en/
 
-Node 22+, zero runtime dependencies. `npm run verify`; `PORT=4350 npm run dev`. Four languages, static searchable pages, browser-local processing and explicit snapshot sharing.
+Timed typing practice with normalized Unicode progress, passage-only caret following, three persistent text sizes, local best/streak records and missed-word review after completion. Review uses final-position mistakes, not deleted keystroke history. Restart resets passage scrolling.
 
-## Deploy
+## Development
 
-GitHub Pages via Actions. CNAME `type.iamdenny.com` → `iamdenny.github.io`. Verify `/release.json` against the deployment commit.
+Node 22+, native ES modules, no runtime dependencies. Run `npm run verify` for tests, static build and SEO/link audits. Run `npm run dev` (default port 4350); set `PORT` to use another port. Generated output is `dist/`.
 
-## Analytics and revenue
+## Content and languages
 
-GA4 loads only on the production domain after visitor opt-in. No input text, participant names, scores or URL fragments are sent. AdSense publisher metadata and ads.txt are present; ad serving requires provider approval. Site-specific Adsterra 300×250 banners load after separate advertising permission. Normal-flow affiliate banners link to Coupang with commission disclosures. Top, bottom and both desktop rails promote Tools, Games, MODU TT and Print; mobile rails stack below content. Category blocking and actual revenue require provider evidence.
+The reviewed release contains **300 distinct activities** and **1220 indexable pages**. English starts at `/en/`; Korean, Japanese and Spanish use `/ko/`, `/ja/` and `/es/`. Translation variants are pages, not additional activities. Existing routes and IDs must be preserved. Historical expansion documents record earlier release counts.
 
-## Sharing
+## Privacy, analytics and revenue
 
-Links encode a snapshot; recipients can see its contents. They are not synchronized or authenticated. Local records are not verified rankings.
+`src/consent.js` provides one shared panel. The initial allow/reject actions save immediately; individual purpose controls and the save action appear only after customization. Advertising and analytics remain separate choices, shared across the six participating Denny services using an `iamdenny.com` cookie for up to 180 days.
 
-Coupang channel registration is pending: profile read/update failed in the provider UI. Affiliate banners remain disabled until persistent registration is verified (`coupang.channelRegistered`).
+GA4 is configured in `site.json` and loads only on the production hostname after analytics permission. Adsterra uses a site-specific unit after advertising permission and provider/configuration checks. Inputs, answers and URL query/fragment payloads are excluded from the curated analytics events. Coupang remains disabled by `coupang.channelRegistered: false`; verify persistent provider registration before enabling it.
 
-Official network banner artwork is copied unchanged from MODU TT `/brand/`, Tools `/ko/promo/`, and Games `/ko/promote/`. Source URLs are recorded in `public/banners/sources.json`. Desktop rails use 160×600 assets; mobile uses the official 320×100 variants.
+Official promotion artwork occupies the top, bottom and desktop rails. On narrow screens the top banners become a horizontally scrollable row; focus mode hides surrounding promotions. Provider approval, ad category filtering, actual ad fill, GA receipt and revenue require separate evidence.
 
-## Workspace features
+## Deployment
 
-Passage progress follows normalized typed characters. Three text sizes persist on this device. After finishing, missed words can generate a focused review passage; the original passage remains available. Review uses final-position mistakes, not deleted keystroke history.
+Pushes to `main` run `.github/workflows/deploy.yml`: verify, upload `dist`, deploy GitHub Pages, then attempt IndexNow submission. Pull requests verify without deployment. DNS targets `iamdenny.github.io` with the service CNAME. Compare the public `/release.json` commit with the intended revision; a successful build alone is not deployment proof. See the operations guide for rollback and provider checks.
 
-Focus mode expands the tool and hides surrounding promotional content until Exit focus or Escape. Default banner placements remain available. Controls and feedback are translated into English, Korean, Japanese and Spanish.
+## Documentation
+
+- [Design and UX](DESIGN.md)
+- [Operations and release checks](docs/operations.md)
+- [Source map](docs/codemap.md)
+- [ADR 0001: shared privacy choices](docs/adr/0001-shared-privacy-choices.md)
+- [ADR 0002: static content and versioned releases](docs/adr/0002-static-content-and-releases.md)
+- [content-expansion-200](docs/content-expansion-200.md)
+- [content-expansion-300](docs/content-expansion-300.md)
